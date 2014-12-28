@@ -1,0 +1,4 @@
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.SEOExtension.dll
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.SEOExtension.pdb
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SEOExtension\obj\Debug\SageFrame.SEOExtension.dll
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SEOExtension\obj\Debug\SageFrame.SEOExtension.pdb

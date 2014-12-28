@@ -1,0 +1,4 @@
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.BreadCrum.dll
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.BreadCrum.pdb
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.dll
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.pdb

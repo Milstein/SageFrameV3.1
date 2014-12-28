@@ -1,0 +1,7 @@
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Templating\bin\Release\SageFrame.Templating.dll
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Templating\bin\Release\SageFrame.Templating.pdb
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Templating\bin\Release\SageFrame.Common.dll
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Templating\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Templating\obj\Release\SageFrame.Templating.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Templating\obj\Release\SageFrame.Templating.dll
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Templating\obj\Release\SageFrame.Templating.pdb

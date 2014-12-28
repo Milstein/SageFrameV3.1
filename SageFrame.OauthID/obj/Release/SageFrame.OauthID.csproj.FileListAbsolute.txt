@@ -1,0 +1,6 @@
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.OauthID\bin\Release\SageFrame.OauthID.dll
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.OauthID\bin\Release\SageFrame.OauthID.pdb
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.OauthID\bin\Release\SageFrame.Common.dll
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.OauthID\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.OauthID\obj\Release\SageFrame.OauthID.dll
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.OauthID\obj\Release\SageFrame.OauthID.pdb

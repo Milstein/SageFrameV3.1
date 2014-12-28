@@ -1,0 +1,6 @@
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.BreadCrum\bin\Release\SageFrame.BreadCrum.dll
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.BreadCrum\bin\Release\SageFrame.BreadCrum.pdb
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.BreadCrum\bin\Release\SageFrame.Common.dll
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.BreadCrum\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.BreadCrum\obj\Release\SageFrame.BreadCrum.dll
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.BreadCrum\obj\Release\SageFrame.BreadCrum.pdb

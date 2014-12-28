@@ -1,0 +1,4 @@
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.IpAccess.dll
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.IpAccess.pdb
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.dll
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.pdb

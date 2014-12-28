@@ -1,0 +1,4 @@
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Version\bin\Release\SageFrame.Version.dll
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Version\bin\Release\SageFrame.Version.pdb
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Version\obj\Release\SageFrame.Version.dll
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Version\obj\Release\SageFrame.Version.pdb

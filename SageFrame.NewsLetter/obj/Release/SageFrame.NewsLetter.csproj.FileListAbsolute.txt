@@ -13,6 +13,5 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.NewsLetter\bin\Release\Sage
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.NewsLetter\bin\Release\SageFrame.Templating.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.NewsLetter\bin\Release\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.NewsLetter\bin\Release\SageFrame.CDN.pdb
-D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.NewsLetter\obj\Release\SageFrame.NewsLetter.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.NewsLetter\obj\Release\SageFrame.NewsLetter.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.NewsLetter\obj\Release\SageFrame.NewsLetter.pdb

@@ -1,5 +1,4 @@
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\DashBoardControl.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\DashBoardControl.pdb
-D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.pdb

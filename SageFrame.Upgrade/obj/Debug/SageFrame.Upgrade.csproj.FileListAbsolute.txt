@@ -1,5 +1,5 @@
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.Upgrade.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.Upgrade.pdb
-D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Upgrade\obj\Debug\SageFrame.Upgrade.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Upgrade\obj\Debug\SageFrame.Upgrade.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Upgrade\obj\Debug\SageFrame.Upgrade.pdb
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Upgrade\obj\Debug\SageFrame.Upgrade.csprojResolveAssemblyReference.cache

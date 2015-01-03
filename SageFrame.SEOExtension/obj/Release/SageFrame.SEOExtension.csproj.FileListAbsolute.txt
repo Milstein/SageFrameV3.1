@@ -2,6 +2,5 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SEOExtension\bin\Release\Sa
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SEOExtension\bin\Release\SageFrame.SEOExtension.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SEOExtension\bin\Release\SageFrame.Common.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SEOExtension\bin\Release\SageFrame.Common.pdb
-D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SEOExtension\obj\Release\SageFrame.SEOExtension.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SEOExtension\obj\Release\SageFrame.SEOExtension.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SEOExtension\obj\Release\SageFrame.SEOExtension.pdb

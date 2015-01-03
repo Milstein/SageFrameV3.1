@@ -103,5 +103,23 @@ namespace SageFrame.RolesManagement
                 throw ex;
             }
         }
+        /// <summary>
+        /// Connects to database and returns list of portal roles.
+        /// </summary>
+        /// <returns>List of portal roles</returns>
+        public List<RolesManagementInfo> GetSageFramePortalList()
+        {
+            try
+            {
+                SQLHandler SQLH = new SQLHandler();
+                List<KeyValuePair<string, object>> ParamCollInput = new List<KeyValuePair<string, object>>();
+                return SQLH.ExecuteAsList<RolesManagementInfo>("[dbo].[usp_GetSageFramePortalList]", ParamCollInput);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
+        }
     }
 }

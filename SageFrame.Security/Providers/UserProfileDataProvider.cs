@@ -10,6 +10,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using SageFrame.Web.Utilities;
+using SageFrame.ExportUser;
 #endregion
 
 namespace SageFrame.UserProfile
@@ -132,6 +133,42 @@ namespace SageFrame.UserProfile
             {
                 throw e;
             }
+        }
+        /// <summary>
+        /// Connect to database and obtain user Export List.
+        /// </summary>
+        /// <returns>List of Export User List</returns>
+        public List<ExportUserInfo> GetUserExportList()
+        {
+            try
+            {
+                SQLHandler SQLH = new SQLHandler();
+                List<KeyValuePair<string, object>> ParamCollInput = new List<KeyValuePair<string, object>>();
+                return SQLH.ExecuteAsList<ExportUserInfo>("[dbo].[sp_UserExportList]", ParamCollInput);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
+        }
+        /// <summary>
+        /// Connect to database and obtain SageFrame User List.
+        /// </summary>
+        /// <returns>List of SageFrame User List</returns>
+        public List<ExportUserInfo> GetSageFrameUserList()
+        {
+            try
+            {
+                SQLHandler SQLH = new SQLHandler();
+                List<KeyValuePair<string, object>> ParamCollInput = new List<KeyValuePair<string, object>>();
+                return SQLH.ExecuteAsList<ExportUserInfo>("[dbo].[usp_GetSageFrameUserList]", ParamCollInput);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
         }
     }
 }

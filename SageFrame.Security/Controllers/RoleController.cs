@@ -212,5 +212,10 @@ namespace SageFrame.Security
         {
             return (MembershipDataProvider.ChangeUserInRoles(ApplicationName, UserID, RoleNamesUnselected, RoleNamesSelected, PortalID));
         }
+       
+        //public override void CreateRoleImport(RoleInfo role, out RoleCreationStatus status)
+        //{
+        //    MembershipDataProvider.CreateRoleImport(role, out status);
+        //}
     }
 }

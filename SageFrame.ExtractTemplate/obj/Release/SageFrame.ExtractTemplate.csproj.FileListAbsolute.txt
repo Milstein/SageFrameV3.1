@@ -2,5 +2,6 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.ExtractTemplate\bin\Release
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.ExtractTemplate\bin\Release\SageFrame.ExtractTemplate.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.ExtractTemplate\bin\Release\SageFrame.Common.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.ExtractTemplate\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.ExtractTemplate\obj\Release\SageFrame.ExtractTemplate.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.ExtractTemplate\obj\Release\SageFrame.ExtractTemplate.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.ExtractTemplate\obj\Release\SageFrame.ExtractTemplate.pdb

@@ -1,4 +1,5 @@
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.CDN.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.CDN.pdb
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.CDN\obj\Debug\SageFrame.CDN.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.CDN\obj\Debug\SageFrame.CDN.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.CDN\obj\Debug\SageFrame.CDN.pdb

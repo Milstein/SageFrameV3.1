@@ -75,6 +75,7 @@
     <Compile Include="Controllers\RoleController.cs" />
     <Compile Include="Controllers\UserProfileController.cs" />
     <Compile Include="Crypto\Crypto.cs" />
+    <Compile Include="Entities\ExportUserInfo.cs" />
     <Compile Include="Entities\RoleInfo.cs" />
     <Compile Include="Entities\SageFrameUserCollection.cs" />
     <Compile Include="Entities\SettingInfo.cs" />

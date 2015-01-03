@@ -82,6 +82,24 @@ namespace SageFrame.RolesManagement
                 throw;
             }
         }
+        /// <summary>
+        /// Returns list of portal roles.
+        /// </summary>
+        /// <returns>List of portal roles</returns>
+        public List<RolesManagementInfo> GetSageFramePortalList()
+        {
+            try
+            {
+                RolesManagementProvider objProvider = new RolesManagementProvider();
+                return objProvider.GetSageFramePortalList();
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+
+        }
 
     }
 }

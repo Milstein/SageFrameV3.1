@@ -27,10 +27,8 @@ public class ContactUsWebService : System.Web.Services.WebService
     {
         try
         {
-            string EncodeName = Server.HtmlEncode(name);
-            string EncodeMessage = Server.HtmlEncode(message);            
             ContactUsController contactController = new ContactUsController();
-            contactController.ContactUsAdd(EncodeName, email, subject, EncodeMessage, isActive, portalID, addedBy);
+            contactController.ContactUsAdd(name, email,subject, message, isActive, portalID, addedBy);
         }
         catch (Exception ex)
         {

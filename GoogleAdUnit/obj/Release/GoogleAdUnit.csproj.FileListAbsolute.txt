@@ -2,4 +2,3 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\GoogleAdUnit\bin\Release\SFE.GoogleAd
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\GoogleAdUnit\bin\Release\SFE.GoogleAdUnit.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\GoogleAdUnit\obj\Release\SFE.GoogleAdUnit.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\GoogleAdUnit\obj\Release\SFE.GoogleAdUnit.pdb
-D:\!@My Jobs So far\!@latest\SageFrameV3.1\GoogleAdUnit\obj\Release\GoogleAdUnit.csprojResolveAssemblyReference.cache

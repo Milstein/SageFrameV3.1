@@ -26,7 +26,8 @@
                 subject: p.subject,
                 emailSucessMsg: p.emailSucessMsg
             },
-            ContactUsSaveAndSendEmail: function (name, email, subject, message) {
+
+            ContactUsSaveAndSendEmail: function(name, email, subject, message) {
                 var param = JSON2.stringify({
                     name: name,
                     email: email,
@@ -50,7 +51,7 @@
                         jAlert(feedbackTab.config.emailSucessMsg);
                     },
                     error: function() {
-                        jAlert('SMTP server connection requires');
+                        alert('error');
                     }
                 });
             },
@@ -62,7 +63,7 @@
                 $('.invalid').remove();
             },
             init: function() {
-                $("#btnSubmit").off().on("click", function (event) {
+                $("#btnSubmit").off().on("click", function(event) {
                     var v = $('#form1').validate({
                         rules: {
                             name: { required: true },

@@ -638,10 +638,9 @@ namespace SageFrame.Security.Providers
             catch (Exception ex)
             {
                 throw ex;
-            }
-
-
+            }            
         }
+
         /// <summary>
         /// Connect to database and obtain application portal roles.
         /// </summary>
@@ -984,8 +983,105 @@ namespace SageFrame.Security.Providers
 
         #endregion
 
+        //public static void CreateRoleImport(RoleInfo obj, out RoleCreationStatus status)
+        //{
+        //    try
+        //    {
+        //        List<KeyValuePair<string, object>> ParamCollInput = new List<KeyValuePair<string, object>>();
+        //        ParamCollInput.Add(new KeyValuePair<string, object>("@ApplicationName", obj.ApplicationName));
+        //        ParamCollInput.Add(new KeyValuePair<string, object>("@RoleName", obj.RoleName));
+        //        ParamCollInput.Add(new KeyValuePair<string, object>("@PortalID", obj.PortalID));
+        //        ParamCollInput.Add(new KeyValuePair<string, object>("@IsActive", obj.IsActive));
+        //        ParamCollInput.Add(new KeyValuePair<string, object>("@AddedOn", obj.AddedOn));
+        //        ParamCollInput.Add(new KeyValuePair<string, object>("@AddedBy", obj.AddedBy));
+        //        List<KeyValuePair<string, object>> ParamCollOutput = new List<KeyValuePair<string, object>>();
+        //        ParamCollOutput.Add(new KeyValuePair<string, object>("@ErrorCode", 0));
 
+
+        //        SageFrameSQLHelper sagesql = new SageFrameSQLHelper();
+        //        List<KeyValuePair<int, string>> OutputValColl = new List<KeyValuePair<int, string>>();
+        //        OutputValColl = sagesql.ExecuteNonQueryWithMultipleOutput("[dbo].[usp_sf_CreateRoleImport]", ParamCollInput, ParamCollOutput);
+        //        int ErrorCode = int.Parse(OutputValColl[0].Value);
+
+        //        switch (ErrorCode)
+        //        {
+        //            case 1:
+        //                status = RoleCreationStatus.DUPLICATE_ROLE;
+        //                break;
+        //            default:
+        //                status = RoleCreationStatus.SUCCESS;
+        //                break;
+        //        }
+
+
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        throw ex;
+        //    }
+
+
+        //}
+        public static bool CreatePortalUserImport(UserInfo obj, out UserCreationStatus status, UserCreationMode mode)
+        {
+            string sp = "[dbo].[usp_sf_CreateUser]";
+            try
+            {
+                List<KeyValuePair<string, object>> ParamCollInput = new List<KeyValuePair<string, object>>();
+                ParamCollInput.Add(new KeyValuePair<string, object>("@ApplicationName", obj.ApplicationName));
+                ParamCollInput.Add(new KeyValuePair<string, object>("@UserName", obj.UserName));
+                ParamCollInput.Add(new KeyValuePair<string, object>("@FirstName", obj.FirstName));
+                ParamCollInput.Add(new KeyValuePair<string, object>("@LastName", obj.LastName));
+                ParamCollInput.Add(new KeyValuePair<string, object>("@Password", obj.Password));
+                ParamCollInput.Add(new KeyValuePair<string, object>("@PasswordSalt", obj.PasswordSalt));
+                ParamCollInput.Add(new KeyValuePair<string, object>("@Email", obj.Email));
+                ParamCollInput.Add(new KeyValuePair<string, object>("@PasswordQuestion", obj.SecurityQuestion));
+                ParamCollInput.Add(new KeyValuePair<string, object>("@PasswordAnswer", obj.SecurityAnswer));
+                ParamCollInput.Add(new KeyValuePair<string, object>("@IsApproved", obj.IsApproved));
+                ParamCollInput.Add(new KeyValuePair<string, object>("@CurrentTimeUtc", obj.CurrentTimeUtc));
+                ParamCollInput.Add(new KeyValuePair<string, object>("@CreateDate", obj.CreatedDate));
+                ParamCollInput.Add(new KeyValuePair<string, object>("@UniqueEmail", obj.UniqueEmail));
+                ParamCollInput.Add(new KeyValuePair<string, object>("@PasswordFormat", obj.PasswordFormat));
+                ParamCollInput.Add(new KeyValuePair<string, object>("@PortalID", obj.PortalID));
+                ParamCollInput.Add(new KeyValuePair<string, object>("@AddedOn", obj.AddedOn));
+                ParamCollInput.Add(new KeyValuePair<string, object>("@AddedBy", obj.AddedBy));
+                ParamCollInput.Add(new KeyValuePair<string, object>("@RoleNames", obj.RoleNames));
+                ParamCollInput.Add(new KeyValuePair<string, object>("@StoreID", obj.StoreID));
+
+                List<KeyValuePair<string, object>> ParamCollOutput = new List<KeyValuePair<string, object>>();
+                ParamCollOutput.Add(new KeyValuePair<string, object>("@UserId", obj.UserID));
+                ParamCollOutput.Add(new KeyValuePair<string, object>("@ErrorCode", 0));
+                ParamCollOutput.Add(new KeyValuePair<string, object>("@CustomerID", obj.CustomerID));
+
+                SageFrameSQLHelper sagesql = new SageFrameSQLHelper();
+
+                List<KeyValuePair<int, string>> OutputValColl = new List<KeyValuePair<int, string>>();
+                OutputValColl = sagesql.ExecuteNonQueryWithMultipleOutput(sp, ParamCollInput, ParamCollOutput);
+                int CustomerID = int.Parse(OutputValColl[2].Value);
+                int ErrorCode = int.Parse(OutputValColl[1].Value);
+                Guid UserID = new Guid(OutputValColl[0].Value.ToString());
+
+                switch (ErrorCode)
+                {
+                    case 3:
+                        status = UserCreationStatus.DUPLICATE_EMAIL;
+                        break;
+                    case 6:
+                        status = UserCreationStatus.DUPLICATE_USER;
+                        break;
+                    default:
+                        status = UserCreationStatus.SUCCESS;
+                        break;
+                }
+                return true;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+
+
+        }
     }
 }
-
 

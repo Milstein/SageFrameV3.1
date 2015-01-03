@@ -1,4 +1,5 @@
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.ModuleManager.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.ModuleManager.pdb
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.ModuleManager\obj\Debug\SageFrame.ModuleManager.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.ModuleManager\obj\Debug\SageFrame.ModuleManager.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.ModuleManager\obj\Debug\SageFrame.ModuleManager.pdb

@@ -9,6 +9,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using SageFrame.ExportUser;
 #endregion
 
 namespace SageFrame.UserProfile
@@ -87,6 +88,42 @@ namespace SageFrame.UserProfile
             {
                 throw e;
             }
+        }
+        /// <summary>
+        /// Obtain user Export List.
+        /// </summary>
+        /// <returns>List of Export User List</returns>
+        public List<ExportUserInfo> GetUserExportList()
+        {
+            try
+            {
+                UserProfileDataProvider objProvider = new UserProfileDataProvider();
+                return objProvider.GetUserExportList();
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+
+        }
+        /// <summary>
+        /// Obtain SageFrame User List.
+        /// </summary>
+        /// <returns>List of SageFrame User List</returns>
+        public List<ExportUserInfo> GetSageFrameUserList()
+        {
+            try
+            {
+                UserProfileDataProvider objProvider = new UserProfileDataProvider();
+                return objProvider.GetSageFrameUserList();
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+
         }
 
     }

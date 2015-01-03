@@ -13,5 +13,6 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Upgrade\bin\Release\SageFra
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Upgrade\bin\Release\SageFrame.Templating.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Upgrade\bin\Release\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Upgrade\bin\Release\SageFrame.CDN.pdb
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Upgrade\obj\Release\SageFrame.Upgrade.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Upgrade\obj\Release\SageFrame.Upgrade.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Upgrade\obj\Release\SageFrame.Upgrade.pdb

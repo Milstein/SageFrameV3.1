@@ -41,6 +41,7 @@ namespace SageFrame.Security
 		public abstract void UpdateUserRole(UserRoleInfo userRole);
         public abstract bool DeleteUserInRoles(UserInfo user);
         public abstract bool ChangeUserInRoles(string ApplicationName, Guid UserID, string RoleNamesUnselected, string RoleNamesSelected, int PortalID);
-		
+       // public abstract void CreateRoleImport(RoleInfo role, out RoleCreationStatus status);
+       
     }
 }

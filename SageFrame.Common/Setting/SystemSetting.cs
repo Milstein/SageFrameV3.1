@@ -67,6 +67,7 @@ namespace SageFrame.Web
         public static string[] INCOMPRESSIBLE_EXTENSIONS = { ".gif", ".jpg", ".png", ".axd", ".asmx", ".css", ".js", "Fconnector.aspx", ".html", ".htm", "connector.aspx?", "fckstyles.xml" };
         public static string[] ALLOWED_EXTENSIONS = { ".gif", ".jpg", ".png" };
         public static string[] ALLOWED_FILES = { ".gif", ".jpg", ".png", ".htm", ".xml", ".html", ".cs", ".ascx", ".js", ".asmx",".css" };
+        public static string[] SYSTEM_DEFAULT_USERS = { "anonymoususer", "siteadmin"};
         #endregion
         /// <summary>
         /// Return database owner.

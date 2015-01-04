@@ -2,4 +2,3 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\ContactUs.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\ContactUs.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.ContactUs\obj\Debug\ContactUs.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.ContactUs\obj\Debug\ContactUs.pdb
-D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.ContactUs\obj\Debug\SageFrame.ContactUs.csprojResolveAssemblyReference.cache

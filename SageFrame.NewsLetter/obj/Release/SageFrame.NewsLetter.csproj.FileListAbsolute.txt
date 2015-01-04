@@ -27,6 +27,8 @@ D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.NewsLetter\bin\Release\ICSha
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.NewsLetter\bin\Release\Ionic.Zip.dll
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.NewsLetter\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.NewsLetter\bin\Release\SageFrame.Core.pdb
-D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.NewsLetter\obj\Release\SageFrame.NewsLetter.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.NewsLetter\bin\Release\SageFrame.Templating.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.NewsLetter\bin\Release\SageFrame.CDN.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.NewsLetter\bin\Release\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.NewsLetter\obj\Release\SageFrame.NewsLetter.dll
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.NewsLetter\obj\Release\SageFrame.NewsLetter.pdb

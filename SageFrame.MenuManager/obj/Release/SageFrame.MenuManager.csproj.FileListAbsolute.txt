@@ -12,6 +12,7 @@ D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.MenuManager\bin\Release\Sage
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.MenuManager\bin\Release\SageFrame.Common.dll
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.MenuManager\bin\Release\SageFrame.Pages.dll
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.MenuManager\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.MenuManager\bin\Release\SageFrame.Pages.pdb
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.MenuManager\obj\Release\SageFrame.MenuManager.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.MenuManager\obj\Release\SageFrame.MenuManager.dll
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.MenuManager\obj\Release\SageFrame.MenuManager.pdb

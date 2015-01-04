@@ -26,7 +26,11 @@ D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Core\bin\Release\SageFrame.C
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Core\bin\Release\SageFrame.Dashboard.dll
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Core\bin\Release\SageFrame.Scheduler.dll
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Core\bin\Release\SageFrame.Templating.dll
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Core\bin\Release\SageFrame.CDN.pdb
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Core\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Core\bin\Release\SageFrame.Dashboard.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Core\bin\Release\SageFrame.Scheduler.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Core\bin\Release\SageFrame.Templating.pdb
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Core\obj\Release\SageFrame.Core.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Core\obj\Release\SageFrame.Core.dll
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Core\obj\Release\SageFrame.Core.pdb

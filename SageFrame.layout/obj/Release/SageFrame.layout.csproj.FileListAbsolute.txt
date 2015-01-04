@@ -66,6 +66,5 @@ D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.layout\bin\Release\SageFrame
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.layout\bin\Release\SageFrame.Dashboard.dll
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.layout\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.layout\bin\Release\SageFrame.Dashboard.pdb
-D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.layout\obj\Release\SageFrame.layout.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.layout\obj\Release\SageFrame.layout.dll
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.layout\obj\Release\SageFrame.layout.pdb

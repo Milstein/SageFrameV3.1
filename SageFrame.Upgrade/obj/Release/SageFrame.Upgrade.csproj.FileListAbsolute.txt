@@ -27,6 +27,8 @@ D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Upgrade\bin\Release\ICSharpC
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Upgrade\bin\Release\Ionic.Zip.dll
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Upgrade\bin\Release\SageFrame.Core.pdb
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Upgrade\bin\Release\SageFrame.Common.pdb
-D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Upgrade\obj\Release\SageFrame.Upgrade.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Upgrade\bin\Release\SageFrame.Templating.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Upgrade\bin\Release\SageFrame.CDN.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Upgrade\bin\Release\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Upgrade\obj\Release\SageFrame.Upgrade.dll
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Upgrade\obj\Release\SageFrame.Upgrade.pdb

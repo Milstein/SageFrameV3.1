@@ -28,6 +28,9 @@ D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.FileManager\bin\Release\Sage
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.FileManager\bin\Release\Ionic.Zip.dll
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.FileManager\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.FileManager\bin\Release\SageFrame.Core.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.FileManager\bin\Release\SageFrame.Templating.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.FileManager\bin\Release\SageFrame.CDN.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.FileManager\bin\Release\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.FileManager\obj\Release\SageFrame.FileManager.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.FileManager\obj\Release\SageFrame.FileManager.dll
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.FileManager\obj\Release\SageFrame.FileManager.pdb

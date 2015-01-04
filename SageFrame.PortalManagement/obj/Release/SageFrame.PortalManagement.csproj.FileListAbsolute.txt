@@ -4,3 +4,9 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.PortalManagement\bin\Releas
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.PortalManagement\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.PortalManagement\obj\Release\SageFrame.PortalManagement.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.PortalManagement\obj\Release\SageFrame.PortalManagement.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.PortalManagement\bin\Release\SageFrame.PortalManagement.dll
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.PortalManagement\bin\Release\SageFrame.PortalManagement.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.PortalManagement\bin\Release\SageFrame.Common.dll
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.PortalManagement\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.PortalManagement\obj\Release\SageFrame.PortalManagement.dll
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.PortalManagement\obj\Release\SageFrame.PortalManagement.pdb

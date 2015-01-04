@@ -2,3 +2,7 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.Version.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.Version.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Version\obj\Debug\SageFrame.Version.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Version\obj\Debug\SageFrame.Version.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame\bin\SageFrame.Version.dll
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame\bin\SageFrame.Version.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Version\obj\Debug\SageFrame.Version.dll
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Version\obj\Debug\SageFrame.Version.pdb

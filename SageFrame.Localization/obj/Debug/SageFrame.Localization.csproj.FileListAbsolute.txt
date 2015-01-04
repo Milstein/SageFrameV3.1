@@ -2,3 +2,8 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.Localization.
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.Localization.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Localization\obj\Debug\SageFrame.Localization.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Localization\obj\Debug\SageFrame.Localization.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame\bin\SageFrame.Localization.dll
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame\bin\SageFrame.Localization.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Localization\obj\Debug\SageFrame.Localization.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Localization\obj\Debug\SageFrame.Localization.dll
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Localization\obj\Debug\SageFrame.Localization.pdb

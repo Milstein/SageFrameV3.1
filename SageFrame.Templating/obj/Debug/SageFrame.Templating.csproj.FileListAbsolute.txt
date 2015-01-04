@@ -3,3 +3,8 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.Templating.pd
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Templating\obj\Debug\SageFrame.Templating.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Templating\obj\Debug\SageFrame.Templating.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Templating\obj\Debug\SageFrame.Templating.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame\bin\SageFrame.Templating.dll
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame\bin\SageFrame.Templating.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Templating\obj\Debug\SageFrame.Templating.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Templating\obj\Debug\SageFrame.Templating.dll
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Templating\obj\Debug\SageFrame.Templating.pdb

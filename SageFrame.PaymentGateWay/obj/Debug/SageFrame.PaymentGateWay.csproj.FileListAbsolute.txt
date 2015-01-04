@@ -7,3 +7,7 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.PaymentGateWa
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.PaymentGateWay.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame\bin\SageFrame.PaymentGateWay.dll
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame\bin\SageFrame.PaymentGateWay.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.dll
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.pdb

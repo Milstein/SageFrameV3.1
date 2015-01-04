@@ -61,3 +61,8 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.layout.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.layout.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame\bin\SageFrame.layout.dll
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame\bin\SageFrame.layout.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.layout\obj\Debug\SageFrame.layout.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.layout\obj\Debug\SageFrame.layout.dll
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.layout\obj\Debug\SageFrame.layout.pdb

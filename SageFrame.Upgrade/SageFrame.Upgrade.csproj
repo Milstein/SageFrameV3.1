@@ -80,12 +80,6 @@
     <Compile Include="Router.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SageFrame.Core\SageFrame.Core.csproj">
-      <Project>{E01DB85D-70F0-4A32-AD9D-9D5CA1771D85}</Project>
-      <Name>SageFrame.Core</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
       <Visible>False</Visible>
       <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
@@ -101,6 +95,12 @@
       <ProductName>Windows Installer 3.1</ProductName>
       <Install>true</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SageFrame.Core\SageFrame.Core.csproj">
+      <Project>{e01db85d-70f0-4a32-ad9d-9d5ca1771d85}</Project>
+      <Name>SageFrame.Core</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

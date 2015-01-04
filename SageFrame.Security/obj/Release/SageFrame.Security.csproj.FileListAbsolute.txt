@@ -4,3 +4,10 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Security\bin\Release\SageFr
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Security\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Security\obj\Release\SageFrame.Security.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Security\obj\Release\SageFrame.Security.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Security\bin\Release\SageFrame.Security.dll
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Security\bin\Release\SageFrame.Security.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Security\bin\Release\SageFrame.Common.dll
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Security\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Security\obj\Release\SageFrame.Security.csprojResolveAssemblyReference.cache
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Security\obj\Release\SageFrame.Security.dll
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Security\obj\Release\SageFrame.Security.pdb

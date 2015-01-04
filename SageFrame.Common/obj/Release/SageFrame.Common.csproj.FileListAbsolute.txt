@@ -5,6 +5,6 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Common\obj\Release\SageFram
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Common\obj\Release\SageFrame.Common.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Common\bin\Release\SageFrame.Common.dll
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Common\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Common\obj\Release\SageFrame.Common.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Common\obj\Release\SageFrame.Common.dll
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Common\obj\Release\SageFrame.Common.pdb
-D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Common\obj\Release\SageFrame.Common.csprojResolveAssemblyReference.cache

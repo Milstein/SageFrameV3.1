@@ -67,3 +67,4 @@ D:\SageFrameV3.1\SageFrame.Upgrade\bin\Release\SageFrame.CDN.pdb
 D:\SageFrameV3.1\SageFrame.Upgrade\bin\Release\SageFrame.Scheduler.pdb
 D:\SageFrameV3.1\SageFrame.Upgrade\obj\Release\SageFrame.Upgrade.dll
 D:\SageFrameV3.1\SageFrame.Upgrade\obj\Release\SageFrame.Upgrade.pdb
+D:\SageFrameV3.1\SageFrame.Upgrade\obj\Release\SageFrame.Upgrade.csprojResolveAssemblyReference.cache

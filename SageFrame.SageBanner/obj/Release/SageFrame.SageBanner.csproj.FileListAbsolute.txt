@@ -22,3 +22,4 @@ D:\SageFrameV3.1\SageFrame.SageBanner\bin\Release\SageFrame.Common.dll
 D:\SageFrameV3.1\SageFrame.SageBanner\bin\Release\SageFrame.Common.pdb
 D:\SageFrameV3.1\SageFrame.SageBanner\obj\Release\SageFrame.SageBanner.dll
 D:\SageFrameV3.1\SageFrame.SageBanner\obj\Release\SageFrame.SageBanner.pdb
+D:\SageFrameV3.1\SageFrame.SageBanner\obj\Release\SageFrame.SageBanner.csprojResolveAssemblyReference.cache

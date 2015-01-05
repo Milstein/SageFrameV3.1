@@ -15,3 +15,4 @@ D:\SageFrameV3.1\SageFrame\bin\SageFrame.Dashboard.dll
 D:\SageFrameV3.1\SageFrame\bin\SageFrame.Dashboard.pdb
 D:\SageFrameV3.1\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.dll
 D:\SageFrameV3.1\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.pdb
+D:\SageFrameV3.1\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.csprojResolveAssemblyReference.cache

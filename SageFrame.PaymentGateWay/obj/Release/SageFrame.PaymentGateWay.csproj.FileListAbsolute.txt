@@ -23,3 +23,9 @@ D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.PaymentGateWay\bin
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.PaymentGateWay\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.PaymentGateWay\obj\Release\SageFrame.PaymentGateWay.dll
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.PaymentGateWay\obj\Release\SageFrame.PaymentGateWay.pdb
+D:\SageFrameV3.1\SageFrame.PaymentGateWay\bin\Release\SageFrame.PaymentGateWay.dll
+D:\SageFrameV3.1\SageFrame.PaymentGateWay\bin\Release\SageFrame.PaymentGateWay.pdb
+D:\SageFrameV3.1\SageFrame.PaymentGateWay\bin\Release\SageFrame.Common.dll
+D:\SageFrameV3.1\SageFrame.PaymentGateWay\bin\Release\SageFrame.Common.pdb
+D:\SageFrameV3.1\SageFrame.PaymentGateWay\obj\Release\SageFrame.PaymentGateWay.dll
+D:\SageFrameV3.1\SageFrame.PaymentGateWay\obj\Release\SageFrame.PaymentGateWay.pdb

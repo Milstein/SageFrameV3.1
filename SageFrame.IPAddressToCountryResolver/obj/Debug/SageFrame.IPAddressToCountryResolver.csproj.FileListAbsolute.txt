@@ -10,3 +10,7 @@ D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame\bin\SageFrame.IPAd
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame\bin\SageFrame.IPAddressToCountryResolver.pdb
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.dll
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.pdb
+D:\SageFrameV3.1\SageFrame\bin\SageFrame.IPAddressToCountryResolver.dll
+D:\SageFrameV3.1\SageFrame\bin\SageFrame.IPAddressToCountryResolver.pdb
+D:\SageFrameV3.1\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.dll
+D:\SageFrameV3.1\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.pdb

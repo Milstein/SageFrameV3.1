@@ -11,3 +11,8 @@ D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame\bin\SageFrame.Upgr
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame\bin\SageFrame.Upgrade.pdb
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Upgrade\obj\Debug\SageFrame.Upgrade.dll
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Upgrade\obj\Debug\SageFrame.Upgrade.pdb
+D:\SageFrameV3.1\SageFrame\bin\SageFrame.Upgrade.dll
+D:\SageFrameV3.1\SageFrame\bin\SageFrame.Upgrade.pdb
+D:\SageFrameV3.1\SageFrame.Upgrade\obj\Debug\SageFrame.Upgrade.csprojResolveAssemblyReference.cache
+D:\SageFrameV3.1\SageFrame.Upgrade\obj\Debug\SageFrame.Upgrade.dll
+D:\SageFrameV3.1\SageFrame.Upgrade\obj\Debug\SageFrame.Upgrade.pdb

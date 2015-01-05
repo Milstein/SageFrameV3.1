@@ -11,3 +11,7 @@ D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame\bin\SageFrame.Sche
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame\bin\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.dll
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.pdb
+D:\SageFrameV3.1\SageFrame\bin\SageFrame.Scheduler.dll
+D:\SageFrameV3.1\SageFrame\bin\SageFrame.Scheduler.pdb
+D:\SageFrameV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.dll
+D:\SageFrameV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.pdb

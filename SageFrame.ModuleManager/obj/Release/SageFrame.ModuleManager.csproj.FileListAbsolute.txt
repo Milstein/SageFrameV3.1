@@ -16,3 +16,9 @@ D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.ModuleManager\bin\
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.ModuleManager\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.ModuleManager\obj\Release\SageFrame.ModuleManager.dll
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.ModuleManager\obj\Release\SageFrame.ModuleManager.pdb
+D:\SageFrameV3.1\SageFrame.ModuleManager\bin\Release\SageFrame.ModuleManager.dll
+D:\SageFrameV3.1\SageFrame.ModuleManager\bin\Release\SageFrame.ModuleManager.pdb
+D:\SageFrameV3.1\SageFrame.ModuleManager\bin\Release\SageFrame.Common.dll
+D:\SageFrameV3.1\SageFrame.ModuleManager\bin\Release\SageFrame.Common.pdb
+D:\SageFrameV3.1\SageFrame.ModuleManager\obj\Release\SageFrame.ModuleManager.dll
+D:\SageFrameV3.1\SageFrame.ModuleManager\obj\Release\SageFrame.ModuleManager.pdb

@@ -16,3 +16,9 @@ D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Pages\bin\Release\
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Pages\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Pages\obj\Release\SageFrame.Pages.dll
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Pages\obj\Release\SageFrame.Pages.pdb
+D:\SageFrameV3.1\SageFrame.Pages\bin\Release\SageFrame.Pages.dll
+D:\SageFrameV3.1\SageFrame.Pages\bin\Release\SageFrame.Pages.pdb
+D:\SageFrameV3.1\SageFrame.Pages\bin\Release\SageFrame.Common.dll
+D:\SageFrameV3.1\SageFrame.Pages\bin\Release\SageFrame.Common.pdb
+D:\SageFrameV3.1\SageFrame.Pages\obj\Release\SageFrame.Pages.dll
+D:\SageFrameV3.1\SageFrame.Pages\obj\Release\SageFrame.Pages.pdb

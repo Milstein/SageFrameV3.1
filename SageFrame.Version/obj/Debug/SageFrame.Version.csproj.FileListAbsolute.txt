@@ -10,3 +10,7 @@ D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame\bin\SageFrame.Vers
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame\bin\SageFrame.Version.pdb
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Version\obj\Debug\SageFrame.Version.dll
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Version\obj\Debug\SageFrame.Version.pdb
+D:\SageFrameV3.1\SageFrame\bin\SageFrame.Version.dll
+D:\SageFrameV3.1\SageFrame\bin\SageFrame.Version.pdb
+D:\SageFrameV3.1\SageFrame.Version\obj\Debug\SageFrame.Version.dll
+D:\SageFrameV3.1\SageFrame.Version\obj\Debug\SageFrame.Version.pdb

@@ -13,3 +13,8 @@ D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame\bin\SageFrame.File
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.dll
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.pdb
+D:\SageFrameV3.1\SageFrame\bin\SageFrame.FileManager.dll
+D:\SageFrameV3.1\SageFrame\bin\SageFrame.FileManager.pdb
+D:\SageFrameV3.1\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.csprojResolveAssemblyReference.cache
+D:\SageFrameV3.1\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.dll
+D:\SageFrameV3.1\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.pdb

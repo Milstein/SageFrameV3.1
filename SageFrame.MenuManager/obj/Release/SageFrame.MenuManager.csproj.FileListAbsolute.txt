@@ -25,3 +25,12 @@ D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.MenuManager\bin\Re
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.MenuManager\obj\Release\SageFrame.MenuManager.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.MenuManager\obj\Release\SageFrame.MenuManager.dll
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.MenuManager\obj\Release\SageFrame.MenuManager.pdb
+D:\SageFrameV3.1\SageFrame.MenuManager\bin\Release\SageFrame.MenuManager.dll
+D:\SageFrameV3.1\SageFrame.MenuManager\bin\Release\SageFrame.MenuManager.pdb
+D:\SageFrameV3.1\SageFrame.MenuManager\bin\Release\SageFrame.Common.dll
+D:\SageFrameV3.1\SageFrame.MenuManager\bin\Release\SageFrame.Pages.dll
+D:\SageFrameV3.1\SageFrame.MenuManager\bin\Release\SageFrame.Common.pdb
+D:\SageFrameV3.1\SageFrame.MenuManager\bin\Release\SageFrame.Pages.pdb
+D:\SageFrameV3.1\SageFrame.MenuManager\obj\Release\SageFrame.MenuManager.csprojResolveAssemblyReference.cache
+D:\SageFrameV3.1\SageFrame.MenuManager\obj\Release\SageFrame.MenuManager.dll
+D:\SageFrameV3.1\SageFrame.MenuManager\obj\Release\SageFrame.MenuManager.pdb

@@ -76,3 +76,11 @@ D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.layout\bin\Release
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.layout\bin\Release\SageFrame.Dashboard.pdb
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.layout\obj\Release\SageFrame.layout.dll
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.layout\obj\Release\SageFrame.layout.pdb
+D:\SageFrameV3.1\SageFrame.layout\bin\Release\SageFrame.layout.dll
+D:\SageFrameV3.1\SageFrame.layout\bin\Release\SageFrame.layout.pdb
+D:\SageFrameV3.1\SageFrame.layout\bin\Release\SageFrame.Common.dll
+D:\SageFrameV3.1\SageFrame.layout\bin\Release\SageFrame.Dashboard.dll
+D:\SageFrameV3.1\SageFrame.layout\bin\Release\SageFrame.Common.pdb
+D:\SageFrameV3.1\SageFrame.layout\bin\Release\SageFrame.Dashboard.pdb
+D:\SageFrameV3.1\SageFrame.layout\obj\Release\SageFrame.layout.dll
+D:\SageFrameV3.1\SageFrame.layout\obj\Release\SageFrame.layout.pdb

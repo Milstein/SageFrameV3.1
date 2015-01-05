@@ -11,3 +11,7 @@ D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame\bin\SageFrame.Task
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame\bin\SageFrame.TaskToDo.pdb
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.TaskToDo\obj\Debug\SageFrame.TaskToDo.dll
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.TaskToDo\obj\Debug\SageFrame.TaskToDo.pdb
+D:\SageFrameV3.1\SageFrame\bin\SageFrame.TaskToDo.dll
+D:\SageFrameV3.1\SageFrame\bin\SageFrame.TaskToDo.pdb
+D:\SageFrameV3.1\SageFrame.TaskToDo\obj\Debug\SageFrame.TaskToDo.dll
+D:\SageFrameV3.1\SageFrame.TaskToDo\obj\Debug\SageFrame.TaskToDo.pdb

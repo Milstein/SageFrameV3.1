@@ -16,3 +16,9 @@ D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Dashboard\bin\Rele
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.dll
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.pdb
+D:\SageFrameV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Dashboard.dll
+D:\SageFrameV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Dashboard.pdb
+D:\SageFrameV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Common.dll
+D:\SageFrameV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Common.pdb
+D:\SageFrameV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.dll
+D:\SageFrameV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.pdb

@@ -16,3 +16,9 @@ D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Security\bin\Relea
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Security\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Security\obj\Release\SageFrame.Security.dll
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Security\obj\Release\SageFrame.Security.pdb
+D:\SageFrameV3.1\SageFrame.Security\bin\Release\SageFrame.Security.dll
+D:\SageFrameV3.1\SageFrame.Security\bin\Release\SageFrame.Security.pdb
+D:\SageFrameV3.1\SageFrame.Security\bin\Release\SageFrame.Common.dll
+D:\SageFrameV3.1\SageFrame.Security\bin\Release\SageFrame.Common.pdb
+D:\SageFrameV3.1\SageFrame.Security\obj\Release\SageFrame.Security.dll
+D:\SageFrameV3.1\SageFrame.Security\obj\Release\SageFrame.Security.pdb

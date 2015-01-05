@@ -4,6 +4,6 @@ D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.SageBanner\obj\Debug\SageFra
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.SageBanner.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.SageBanner.pdb
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.pdb
-D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.csprojResolveAssemblyReference.cache

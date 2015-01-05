@@ -10,4 +10,3 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.CDN\bin\Release\SageFrame.C
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.CDN\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.CDN\obj\Release\SageFrame.CDN.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.CDN\obj\Release\SageFrame.CDN.pdb
-D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.CDN\obj\Release\SageFrame.CDN.csprojResolveAssemblyReference.cache

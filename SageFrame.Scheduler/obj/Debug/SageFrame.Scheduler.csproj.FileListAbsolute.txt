@@ -4,6 +4,6 @@ D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Scheduler\obj\Debug\SageFram
 D:\!@My Jobs So far\!@latest\SageFrameFuc\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.Scheduler.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.Scheduler.pdb
+D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.pdb
-D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.csprojResolveAssemblyReference.cache

@@ -10,4 +10,3 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Logo\bin\Release\SageFrame.
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Logo\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Logo\obj\Release\SageFrame.Logo.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Logo\obj\Release\SageFrame.Logo.pdb
-D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Logo\obj\Release\SageFrame.Logo.csprojResolveAssemblyReference.cache

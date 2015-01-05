@@ -10,3 +10,9 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.TaskToDo\bin\Release\SageFr
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.TaskToDo\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.pdb
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.TaskToDo\bin\Release\SageFrame.TaskToDo.dll
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.TaskToDo\bin\Release\SageFrame.TaskToDo.pdb
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.TaskToDo\bin\Release\SageFrame.Common.dll
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.TaskToDo\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.dll
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.pdb

@@ -10,3 +10,9 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Pages\bin\Release\SageFrame
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Pages\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Pages\obj\Release\SageFrame.Pages.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.Pages\obj\Release\SageFrame.Pages.pdb
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Pages\bin\Release\SageFrame.Pages.dll
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Pages\bin\Release\SageFrame.Pages.pdb
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Pages\bin\Release\SageFrame.Common.dll
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Pages\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Pages\obj\Release\SageFrame.Pages.dll
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.Pages\obj\Release\SageFrame.Pages.pdb

@@ -10,3 +10,9 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SageBanner\bin\Release\Sage
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SageBanner\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SageBanner\obj\Release\SageFrame.SageBanner.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SageBanner\obj\Release\SageFrame.SageBanner.pdb
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.SageBanner\bin\Release\SageFrame.SageBanner.dll
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.SageBanner\bin\Release\SageFrame.SageBanner.pdb
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.SageBanner\bin\Release\SageFrame.Common.dll
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.SageBanner\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.SageBanner\obj\Release\SageFrame.SageBanner.dll
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.SageBanner\obj\Release\SageFrame.SageBanner.pdb

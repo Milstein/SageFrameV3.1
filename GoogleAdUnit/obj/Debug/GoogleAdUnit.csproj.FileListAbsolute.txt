@@ -6,3 +6,7 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SFE.GoogleAdUnit.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SFE.GoogleAdUnit.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.pdb
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame\bin\SFE.GoogleAdUnit.dll
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame\bin\SFE.GoogleAdUnit.pdb
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.dll
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.pdb

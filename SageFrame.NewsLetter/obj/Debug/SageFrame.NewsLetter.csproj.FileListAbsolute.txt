@@ -7,3 +7,7 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame\bin\SageFrame.NewsLetter.pd
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.csprojResolveAssemblyReference.cache
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.pdb
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame\bin\SageFrame.NewsLetter.dll
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame\bin\SageFrame.NewsLetter.pdb
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.dll
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.NewsLetter\obj\Debug\SageFrame.NewsLetter.pdb

@@ -10,3 +10,9 @@ D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SiteAnalytics\bin\Release\S
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SiteAnalytics\bin\Release\SageFrame.Common.pdb
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.dll
 D:\!@My Jobs So far\!@latest\SageFrameV3.1\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.pdb
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.SiteAnalytics\bin\Release\DashBoardControl.dll
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.SiteAnalytics\bin\Release\DashBoardControl.pdb
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.SiteAnalytics\bin\Release\SageFrame.Common.dll
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.SiteAnalytics\bin\Release\SageFrame.Common.pdb
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.dll
+D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.pdb

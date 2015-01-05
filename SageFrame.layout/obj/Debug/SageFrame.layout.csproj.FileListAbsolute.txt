@@ -72,6 +72,5 @@ D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.layout\obj\Debug\S
 D:\!@My Jobs So far\!@latest\!@Latest\SageFrameV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.pdb
 D:\SageFrameV3.1\SageFrame\bin\SageFrame.layout.dll
 D:\SageFrameV3.1\SageFrame\bin\SageFrame.layout.pdb
-D:\SageFrameV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.csprojResolveAssemblyReference.cache
 D:\SageFrameV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.dll
 D:\SageFrameV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.pdb

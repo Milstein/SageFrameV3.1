@@ -29,3 +29,4 @@ D:\SageFrameV3.1\SageFrame.PaymentGateWay\bin\Release\SageFrame.Common.dll
 D:\SageFrameV3.1\SageFrame.PaymentGateWay\bin\Release\SageFrame.Common.pdb
 D:\SageFrameV3.1\SageFrame.PaymentGateWay\obj\Release\SageFrame.PaymentGateWay.dll
 D:\SageFrameV3.1\SageFrame.PaymentGateWay\obj\Release\SageFrame.PaymentGateWay.pdb
+D:\SageFrameV3.1\SageFrame.PaymentGateWay\obj\Release\SageFrame.PaymentGateWay.csprojResolveAssemblyReference.cache

@@ -22,4 +22,3 @@ D:\SageFrameV3.1\SageFrame.Security\bin\Release\SageFrame.Common.dll
 D:\SageFrameV3.1\SageFrame.Security\bin\Release\SageFrame.Common.pdb
 D:\SageFrameV3.1\SageFrame.Security\obj\Release\SageFrame.Security.dll
 D:\SageFrameV3.1\SageFrame.Security\obj\Release\SageFrame.Security.pdb
-D:\SageFrameV3.1\SageFrame.Security\obj\Release\SageFrame.Security.csprojResolveAssemblyReference.cache

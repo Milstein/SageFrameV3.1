@@ -16,3 +16,4 @@ D:\SageFrameV3.1\SageFrame.Common\bin\Release\SageFrame.Common.dll
 D:\SageFrameV3.1\SageFrame.Common\bin\Release\SageFrame.Common.pdb
 D:\SageFrameV3.1\SageFrame.Common\obj\Release\SageFrame.Common.dll
 D:\SageFrameV3.1\SageFrame.Common\obj\Release\SageFrame.Common.pdb
+D:\SageFrameV3.1\SageFrame.Common\obj\Release\SageFrame.Common.csprojResolveAssemblyReference.cache

@@ -66,4 +66,3 @@ D:\SageFrameV3.1\SageFrame.NewsLetter\bin\Release\SageFrame.CDN.pdb
 D:\SageFrameV3.1\SageFrame.NewsLetter\bin\Release\SageFrame.Scheduler.pdb
 D:\SageFrameV3.1\SageFrame.NewsLetter\obj\Release\SageFrame.NewsLetter.dll
 D:\SageFrameV3.1\SageFrame.NewsLetter\obj\Release\SageFrame.NewsLetter.pdb
-D:\SageFrameV3.1\SageFrame.NewsLetter\obj\Release\SageFrame.NewsLetter.csprojResolveAssemblyReference.cache

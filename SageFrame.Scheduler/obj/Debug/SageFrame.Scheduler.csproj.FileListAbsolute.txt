@@ -15,4 +15,3 @@ D:\SageFrameV3.1\SageFrame\bin\SageFrame.Scheduler.dll
 D:\SageFrameV3.1\SageFrame\bin\SageFrame.Scheduler.pdb
 D:\SageFrameV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.dll
 D:\SageFrameV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.pdb
-D:\SageFrameV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.csprojResolveAssemblyReference.cache

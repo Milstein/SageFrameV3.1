@@ -15,4 +15,3 @@ D:\SageFrameV3.1\SageFrame\bin\SageFrame.CDN.dll
 D:\SageFrameV3.1\SageFrame\bin\SageFrame.CDN.pdb
 D:\SageFrameV3.1\SageFrame.CDN\obj\Debug\SageFrame.CDN.dll
 D:\SageFrameV3.1\SageFrame.CDN\obj\Debug\SageFrame.CDN.pdb
-D:\SageFrameV3.1\SageFrame.CDN\obj\Debug\SageFrame.CDN.csprojResolveAssemblyReference.cache

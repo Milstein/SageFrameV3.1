@@ -15,4 +15,3 @@ D:\SageFrameV3.1\SageFrame\bin\SageFrame.ModuleManager.dll
 D:\SageFrameV3.1\SageFrame\bin\SageFrame.ModuleManager.pdb
 D:\SageFrameV3.1\SageFrame.ModuleManager\obj\Debug\SageFrame.ModuleManager.dll
 D:\SageFrameV3.1\SageFrame.ModuleManager\obj\Debug\SageFrame.ModuleManager.pdb
-D:\SageFrameV3.1\SageFrame.ModuleManager\obj\Debug\SageFrame.ModuleManager.csprojResolveAssemblyReference.cache

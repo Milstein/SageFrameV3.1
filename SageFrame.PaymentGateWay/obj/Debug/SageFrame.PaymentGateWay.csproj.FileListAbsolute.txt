@@ -20,4 +20,3 @@ D:\SageFrameV3.1\SageFrame\bin\SageFrame.PaymentGateWay.dll
 D:\SageFrameV3.1\SageFrame\bin\SageFrame.PaymentGateWay.pdb
 D:\SageFrameV3.1\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.dll
 D:\SageFrameV3.1\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.pdb
-D:\SageFrameV3.1\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.csprojResolveAssemblyReference.cache

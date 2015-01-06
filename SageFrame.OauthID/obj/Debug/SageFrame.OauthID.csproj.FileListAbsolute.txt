@@ -15,4 +15,3 @@ D:\SageFrameV3.1\SageFrame\bin\SageFrame.OauthID.dll
 D:\SageFrameV3.1\SageFrame\bin\SageFrame.OauthID.pdb
 D:\SageFrameV3.1\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.dll
 D:\SageFrameV3.1\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.pdb
-D:\SageFrameV3.1\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.csprojResolveAssemblyReference.cache

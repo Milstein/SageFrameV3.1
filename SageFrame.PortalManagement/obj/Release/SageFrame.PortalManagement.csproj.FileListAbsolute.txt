@@ -22,4 +22,3 @@ D:\SageFrameV3.1\SageFrame.PortalManagement\bin\Release\SageFrame.Common.dll
 D:\SageFrameV3.1\SageFrame.PortalManagement\bin\Release\SageFrame.Common.pdb
 D:\SageFrameV3.1\SageFrame.PortalManagement\obj\Release\SageFrame.PortalManagement.dll
 D:\SageFrameV3.1\SageFrame.PortalManagement\obj\Release\SageFrame.PortalManagement.pdb
-D:\SageFrameV3.1\SageFrame.PortalManagement\obj\Release\SageFrame.PortalManagement.csprojResolveAssemblyReference.cache

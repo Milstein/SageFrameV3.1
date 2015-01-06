@@ -22,4 +22,3 @@ D:\SageFrameV3.1\SageFrame.IpAccess\bin\Release\SageFrame.Common.dll
 D:\SageFrameV3.1\SageFrame.IpAccess\bin\Release\SageFrame.Common.pdb
 D:\SageFrameV3.1\SageFrame.IpAccess\obj\Release\SageFrame.IpAccess.dll
 D:\SageFrameV3.1\SageFrame.IpAccess\obj\Release\SageFrame.IpAccess.pdb
-D:\SageFrameV3.1\SageFrame.IpAccess\obj\Release\SageFrame.IpAccess.csprojResolveAssemblyReference.cache

@@ -9,9 +9,10 @@ html {
 	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-	color: #575757;
+	color: #545454;
 	background-color: #ffffff;
-	font:14px/1.7 Raleway-regular, sans-serif;
+	font:18px/1.5 Lobster Two, Raleway-regular, sans-serif;
+	font-weight: 300;
 }
 input, button, select, textarea { 
 	font-family: inherit;
@@ -213,7 +214,7 @@ border: 1px solid #ddd;
 /* =Headings
 -------------------------------------------------------------- */
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-	font-family:"Raleway-Medium",sans-serif;
+	font-family:"Lobster Two", "Raleway-Medium",sans-serif;
 	font-weight: 500;
 	line-height: 1.1;
 	color:#313131;
@@ -1090,6 +1091,12 @@ html, body, body >form {
 	font-weight: normal;
 }
 
+@font-face {
+  font-family: 'Lobster Two';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/LobsterTwo.woff') format('woff');
+}
 
 /* Navigation */
 .sf-menu { float:right;}
@@ -1098,13 +1105,13 @@ html, body, body >form {
 .sfNavigation li.sfActive > a { border-bottom:1px solid #797979; position:relative;}
 .sfNavigation li.sfActive > a:after { position: absolute; width:100%; height:1px; content: ""; display: inline-block; left:0; background:#bcbcbc;
 top:100%; margin-top: -3px;}
-.sf-menu a { font:16px "Raleway-Regular", sans-serif;}
+.sf-menu a { font:24px/1.7 Lobster Two, Raleway-regular, sans-serif; font-weight: 300;}
 .sf-menu > li > a { padding-left:0; padding-right:0; }
 .sf-menu > li { padding:0 20px;}
 
 /* Media */
-.sfMediaBody { font:14px/1.7 "Raleway-Light", sans-serif;}
-h3.sfMediaHeading { font:20px "Raleway-regular",sans-serif;}
+.sfMediaBody { font:18px/1.5 "Lobster Two", "Raleway-Light", sans-serif;}
+h3.sfMediaHeading { font:20px "Lobster Two", "Raleway-regular",sans-serif;}
 
 
  /* HEADER */
@@ -1139,8 +1146,8 @@ a:focus { outline:none;}
 -o-transform: translateX(-50%) translateY(-50%);
 transform: translateX(-50%) translateY(-50%);}
 
-#sfSlider .sfContent h1 { font:34px "Raleway-Light", sans-serif; text-shadow:0 0 5px rgba(0, 0, 0, 0.5);}
-#sfSlider p { font-size:22px; font-family:"Raleway-Light", sans-serif;  text-shadow:0 0 5px rgba(0, 0, 0, 0.5);}
+#sfSlider .sfContent h1 { font:34px "Lobster Two", "Raleway-Light", sans-serif; text-shadow:0 0 5px rgba(0, 0, 0, 0.5);}
+#sfSlider p { font-size:22px; font-family:"Lobster Two", "Raleway-Light", sans-serif;  text-shadow:0 0 5px rgba(0, 0, 0, 0.5);}
 .sfInnerBanner { height:150px; background: url(../images/sfbanner-inner.jpg) no-repeat center top !important; text-align: center; color:#eee; position: relative;}
  .sfInnerBanner h1 { margin:0; text-shadow: 0 2px 5px rgba(0,0,0,.5); width:90%; font-size: 42px; position: absolute; top:50%; left:50%; color:#fff;
   -webkit-transform: translateY(-50%)  translateX(-50%) ;
@@ -1222,7 +1229,7 @@ hr {
  
  .sfListGroup li:last-child a{ border-bottom:1px solid #dfdfdf; border-radius: 0 0 5px 5px;}
  
-.sfListGroup li  a { display:block; padding:10px 15px; font-family:Raleway-Medium,sans-serif;} 
+.sfListGroup li  a { display:block; padding:10px 15px; font-family:Lobster Two,Raleway-Medium,sans-serif;} 
 .sfListGroup li  a:hover { background:#f5f5f5; text-decoration:none;}
 .sfListGroup li a.active { background:#507084; color:#fff;}
 

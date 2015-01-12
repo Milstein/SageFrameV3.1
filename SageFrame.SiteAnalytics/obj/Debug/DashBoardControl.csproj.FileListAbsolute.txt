@@ -15,3 +15,4 @@ D:\SageFrameV3.1\SageFrame\bin\DashBoardControl.dll
 D:\SageFrameV3.1\SageFrame\bin\DashBoardControl.pdb
 D:\SageFrameV3.1\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.dll
 D:\SageFrameV3.1\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.pdb
+D:\SageFrameV3.1\SageFrame.SiteAnalytics\obj\Debug\DashBoardControl.csprojResolveAssemblyReference.cache

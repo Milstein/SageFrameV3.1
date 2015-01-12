@@ -84,3 +84,4 @@ D:\SageFrameV3.1\SageFrame.layout\bin\Release\SageFrame.Common.pdb
 D:\SageFrameV3.1\SageFrame.layout\bin\Release\SageFrame.Dashboard.pdb
 D:\SageFrameV3.1\SageFrame.layout\obj\Release\SageFrame.layout.dll
 D:\SageFrameV3.1\SageFrame.layout\obj\Release\SageFrame.layout.pdb
+D:\SageFrameV3.1\SageFrame.layout\obj\Release\SageFrame.layout.csprojResolveAssemblyReference.cache

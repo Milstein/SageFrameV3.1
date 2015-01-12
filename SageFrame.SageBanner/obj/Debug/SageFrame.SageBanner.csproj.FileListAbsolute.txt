@@ -15,3 +15,4 @@ D:\SageFrameV3.1\SageFrame\bin\SageFrame.SageBanner.dll
 D:\SageFrameV3.1\SageFrame\bin\SageFrame.SageBanner.pdb
 D:\SageFrameV3.1\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.dll
 D:\SageFrameV3.1\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.pdb
+D:\SageFrameV3.1\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.csprojResolveAssemblyReference.cache

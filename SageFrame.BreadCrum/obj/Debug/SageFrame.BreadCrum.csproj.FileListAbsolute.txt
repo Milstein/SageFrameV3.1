@@ -15,3 +15,4 @@ D:\SageFrameV3.1\SageFrame\bin\SageFrame.BreadCrum.dll
 D:\SageFrameV3.1\SageFrame\bin\SageFrame.BreadCrum.pdb
 D:\SageFrameV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.dll
 D:\SageFrameV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.pdb
+D:\SageFrameV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.csprojResolveAssemblyReference.cache

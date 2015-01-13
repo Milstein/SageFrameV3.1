@@ -22,4 +22,3 @@ D:\SageFrameV3.1\SageFrame.Logo\bin\Release\SageFrame.Common.dll
 D:\SageFrameV3.1\SageFrame.Logo\bin\Release\SageFrame.Common.pdb
 D:\SageFrameV3.1\SageFrame.Logo\obj\Release\SageFrame.Logo.dll
 D:\SageFrameV3.1\SageFrame.Logo\obj\Release\SageFrame.Logo.pdb
-D:\SageFrameV3.1\SageFrame.Logo\obj\Release\SageFrame.Logo.csprojResolveAssemblyReference.cache

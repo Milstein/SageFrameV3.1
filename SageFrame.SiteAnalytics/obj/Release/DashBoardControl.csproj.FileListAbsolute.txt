@@ -22,4 +22,3 @@ D:\SageFrameV3.1\SageFrame.SiteAnalytics\bin\Release\SageFrame.Common.dll
 D:\SageFrameV3.1\SageFrame.SiteAnalytics\bin\Release\SageFrame.Common.pdb
 D:\SageFrameV3.1\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.dll
 D:\SageFrameV3.1\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.pdb
-D:\SageFrameV3.1\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.csprojResolveAssemblyReference.cache

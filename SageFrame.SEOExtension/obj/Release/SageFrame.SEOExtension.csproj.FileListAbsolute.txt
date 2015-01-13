@@ -22,4 +22,3 @@ D:\SageFrameV3.1\SageFrame.SEOExtension\bin\Release\SageFrame.Common.dll
 D:\SageFrameV3.1\SageFrame.SEOExtension\bin\Release\SageFrame.Common.pdb
 D:\SageFrameV3.1\SageFrame.SEOExtension\obj\Release\SageFrame.SEOExtension.dll
 D:\SageFrameV3.1\SageFrame.SEOExtension\obj\Release\SageFrame.SEOExtension.pdb
-D:\SageFrameV3.1\SageFrame.SEOExtension\obj\Release\SageFrame.SEOExtension.csprojResolveAssemblyReference.cache

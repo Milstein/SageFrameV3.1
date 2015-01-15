@@ -22,3 +22,4 @@ D:\SageFrameV3.1\SageFrame.TaskToDo\bin\Release\SageFrame.Common.dll
 D:\SageFrameV3.1\SageFrame.TaskToDo\bin\Release\SageFrame.Common.pdb
 D:\SageFrameV3.1\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.dll
 D:\SageFrameV3.1\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.pdb
+D:\SageFrameV3.1\SageFrame.TaskToDo\obj\Release\SageFrame.TaskToDo.csprojResolveAssemblyReference.cache

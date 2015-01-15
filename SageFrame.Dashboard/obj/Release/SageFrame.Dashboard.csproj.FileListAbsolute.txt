@@ -22,3 +22,4 @@ D:\SageFrameV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Common.dll
 D:\SageFrameV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Common.pdb
 D:\SageFrameV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.dll
 D:\SageFrameV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.pdb
+D:\SageFrameV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.csprojResolveAssemblyReference.cache

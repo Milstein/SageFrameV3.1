@@ -69,3 +69,4 @@ D:\SageFrameV3.1\SageFrame.Localization\bin\Release\SageFrame.CDN.pdb
 D:\SageFrameV3.1\SageFrame.Localization\bin\Release\SageFrame.Scheduler.pdb
 D:\SageFrameV3.1\SageFrame.Localization\obj\Release\SageFrame.Localization.dll
 D:\SageFrameV3.1\SageFrame.Localization\obj\Release\SageFrame.Localization.pdb
+D:\SageFrameV3.1\SageFrame.Localization\obj\Release\SageFrame.Localization.csprojResolveAssemblyReference.cache

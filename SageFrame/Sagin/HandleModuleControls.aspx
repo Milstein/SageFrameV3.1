@@ -10,7 +10,7 @@
     <meta http-equiv="Expires" content="0">
     <title>Untitled Page</title>
     <asp:PlaceHolder ID="pchHolder" runat="server"></asp:PlaceHolder>
-    <asp:Literal ID="SageFrameCoreCss" EnableViewState="false" runat="server"></asp:Literal>
+    <asp:Literal ID="SageFrameCoreCss" EnableViewState="False" runat="server"></asp:Literal>
     <asp:Literal ID="SageFrameModuleCSSlinks" runat="server"></asp:Literal>
     <link href="../Administrator/Templates/Default/css/iframe.css" rel="stylesheet" type="text/css" />
     <asp:Literal ID="LitLangResc" runat="server"></asp:Literal>

@@ -1,11 +1,11 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default.aspx.cs" EnableViewState="false"
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default.aspx.cs" EnableViewState="False"
     Inherits="SageFrame._Default" %>
 
 <%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="cc1" %>
 <%@ Register Src="~/Controls/TopStickyBar.ascx" TagName="TopStickyBar" TagPrefix="ucstickybar" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server" id="head" enableviewstate="false">
+<head runat="server" id="head" EnableViewState="False">
     <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
     <meta content="text/javascript" http-equiv="Content-Script-Type" />
@@ -30,8 +30,8 @@
     <!--[if lt IE 7]>
         <script type="text/javascript" src="/js/SageFrameCorejs/IE8.js"></script> 
      <![endif]-->
-    <asp:Literal ID="SageFrameModuleCSSlinks" EnableViewState="false" runat="server"></asp:Literal>
-    <asp:Literal ID="SageFrameCoreCss" EnableViewState="false" runat="server"></asp:Literal>
+    <asp:Literal ID="SageFrameModuleCSSlinks" EnableViewState="False" runat="server"></asp:Literal>
+    <asp:Literal ID="SageFrameCoreCss" EnableViewState="False" runat="server"></asp:Literal>
     <asp:Literal ID="LitLangResc" runat="server"></asp:Literal>
     <title>SageFrame Website</title>
 </head>
@@ -45,7 +45,7 @@
         <ucstickybar:TopStickyBar ID="topStickybar" runat="server" />
     </div>
     <noscript>
-        <asp:Label ID="lblnoScript" EnableViewState="false" runat="server" Text="This page requires java-script to be enabled. Please adjust your browser-settings."></asp:Label>
+        <asp:Label ID="lblnoScript" EnableViewState="False" runat="server" Text="This page requires java-script to be enabled. Please adjust your browser-settings."></asp:Label>
     </noscript>
     <asp:Literal ID="ltrPlaceholders" runat="server"></asp:Literal>
     <div class="sfMessagewrapper" id="divMessage" runat="server">

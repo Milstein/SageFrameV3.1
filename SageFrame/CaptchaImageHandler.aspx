@@ -5,8 +5,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head runat="server">
     <title></title>
-     <asp:Literal ID="SageFrameCoreCss" EnableViewState="false" runat="server"></asp:Literal>
-    <asp:Literal ID="SageFrameModuleCSSlinks" EnableViewState="false" runat="server"></asp:Literal>
+     <asp:Literal ID="SageFrameCoreCss" EnableViewState="False" runat="server"></asp:Literal>
+    <asp:Literal ID="SageFrameModuleCSSlinks" EnableViewState="False" runat="server"></asp:Literal>
       <asp:Literal ID="LitSageScript" runat="server"></asp:Literal>
 </head>
 <body>

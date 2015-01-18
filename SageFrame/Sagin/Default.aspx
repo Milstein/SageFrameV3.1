@@ -51,7 +51,7 @@
         @*/
     </script>
     <asp:PlaceHolder ID="pchHolder" runat="server"></asp:PlaceHolder>
-    <asp:Literal ID="SageFrameCoreCss" EnableViewState="false" runat="server"></asp:Literal>
+    <asp:Literal ID="SageFrameCoreCss" EnableViewState="False" runat="server"></asp:Literal>
     <asp:Literal ID="SageFrameModuleCSSlinks" runat="server"></asp:Literal>
     <asp:Literal ID="LitLangResc" runat="server"></asp:Literal>
     <title>SageFrame Website</title>
@@ -125,7 +125,7 @@
                         <h6>
                             Theme</h6>
                         <asp:RadioButtonList CssClass="sfTableThemeColor" runat="server" ID="rdTemplate"
-                            AutoPostBack="true" OnSelectedIndexChanged="rdTemplate_SelectedIndexChanged">
+                            AutoPostBack="True" OnSelectedIndexChanged="rdTemplate_SelectedIndexChanged">
                             <asp:ListItem Text="Default UI" Value="green"></asp:ListItem>
                             <asp:ListItem Text="Gray UI" Value="gray"></asp:ListItem>
                             <asp:ListItem Text="Dark UI" Value="dark"></asp:ListItem>
@@ -135,11 +135,11 @@
                         <table class="sfTableSidebarPosition">
                             <tr>
                                 <td>
-                                    <asp:RadioButton GroupName="position" runat="server" ID="rdLeft" Text="Left" AutoPostBack="true"
+                                    <asp:RadioButton GroupName="position" runat="server" ID="rdLeft" Text="Left" AutoPostBack="True"
                                         OnCheckedChanged="rdLeft_CheckedChanged" />
                                 </td>
                                 <td>
-                                    <asp:RadioButton GroupName="position" runat="server" ID="rdRight" AutoPostBack="true"
+                                    <asp:RadioButton GroupName="position" runat="server" ID="rdRight" AutoPostBack="True"
                                         Text="Right" OnCheckedChanged="rdRight_CheckedChanged" />
                                 </td>
                             </tr>

@@ -10,7 +10,7 @@
     <meta http-equiv="Expires" content="0">
     <title>Untitled Page</title>
     <asp:PlaceHolder ID="pchHolder" runat="server"></asp:PlaceHolder>
-    <asp:Literal ID="SageFrameCoreCss" EnableViewState="false" runat="server"></asp:Literal>
+    <asp:Literal ID="SageFrameCoreCss" EnableViewState="False" runat="server"></asp:Literal>
     <asp:Literal ID="SageFrameModuleCSSlinks" runat="server"></asp:Literal>
     <link href="../Administrator/Templates/Default/css/iframe.css" rel="stylesheet" type="text/css" />
     <asp:Literal ID="LitLangResc" runat="server"></asp:Literal>
@@ -21,8 +21,7 @@
         </asp:ScriptManager>
         <div class="sfFormwrapper">
             <asp:PlaceHolder ID="message" runat="server"></asp:PlaceHolder>
-            <ajax:TabContainer ID="TabContainerManagePages" runat="server" ActiveTabIndex="0"
-                meta:resourcekey="TabContainerManagePagesResource1">
+            <ajax:TabContainer ID="TabContainerManagePages" runat="server" ActiveTabIndex="0">
                 <ajax:TabPanel ID="TabPanelEdit" runat="server" HeaderText="Edit">
                     <ContentTemplate>
                         <asp:PlaceHolder ID="pchEdit" runat="server"></asp:PlaceHolder>

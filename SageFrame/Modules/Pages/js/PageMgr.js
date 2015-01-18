@@ -104,7 +104,7 @@
                 }
             },
             ajaxFailure: function () {
-                //SageFrame.messaging.show("Some kind of error occured", "Error");
+                //SageFrame.messaging.show("Some kind of error occurred", "Error");
             },
             ajaxCall: function (config) {
                 $.ajax({

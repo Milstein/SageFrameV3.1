@@ -1,5 +1,5 @@
 ﻿var ContactLocal = {
-    'Contact Us': 'Contact Us',
+    'Contact Us': 'Get In Touch',
     'All fields are mandatory.': 'All fields are mandatory.',
     'Name': 'Name',
     'Email': 'Email',

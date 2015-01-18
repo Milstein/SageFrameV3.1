@@ -24,7 +24,7 @@
     <UserInformationSaveSuccessfully>User information has been saved successfully.</UserInformationSaveSuccessfully>
     <PleaseEnterTheRequiredFields>Please enter all the required fields.</PleaseEnterTheRequiredFields>
     <UserRolesUpdatedSuccessfully>User roles has been updated successfully.</UserRolesUpdatedSuccessfully>
-    <UnknownErrorOccur>Unknown Error occured: Please try again. </UnknownErrorOccur>
+    <UnknownErrorOccur>An Unknown Error occurred: Please try again. </UnknownErrorOccur>
     <UserPasswordChangedSuccessfully>User password has been changed successfully.</UserPasswordChangedSuccessfully>
     <PleaseEnterTheRequiredField>Please enter all the required fields.</PleaseEnterTheRequiredField>
     <SelectedUsersAreDeletedSuccessfully>Selected users have been deleted successfully.</SelectedUsersAreDeletedSuccessfully>
@@ -58,7 +58,7 @@
     <PleaseSelectRole>Please select a role.</PleaseSelectRole>
     <FromIsLowerThanTo>End date cannot be smaller than start date.</FromIsLowerThanTo>
     <PasswordLength>Password must be at least 4 characters long.</PasswordLength>
-    <SecureConnection>You have been registered but problem occured while sending mail!It may be because server does not support secure connection. Please contact the administrator. </SecureConnection> 
+    <SecureConnection>You have been registered but problem occurred while sending mail!It may be because server does not support secure connection. Please contact the administrator. </SecureConnection>
     <UserDoesNotExist>User does not exist.</UserDoesNotExist>
     <ImageTooLarge>Image size cannot exceed 3 MB.</ImageTooLarge>
     <InvalidImageFormat>Invalid Image Format</InvalidImageFormat>
@@ -108,12 +108,12 @@
     <ModulePermissionSaveSuccessfully>Module permission has been saved successfully.</ModulePermissionSaveSuccessfully>
     <UserModuleTableEditMode>User module table is in edit mode!</UserModuleTableEditMode>
     <AreYouSureToDelete>Are you sure you want to delete?</AreYouSureToDelete>
-    <DeletePageConfirm>It will delete the page and all its content! Are you sure  you want to delete?</DeletePageConfirm>
+    <DeletePageConfirm>It will delete the page and all its content! Are you sure you want to delete?</DeletePageConfirm>
   </PAGES>
   <MessageManagement>
     <MessageTemplateIsUpdatedSuccessfully>Message template has been updated successfully.</MessageTemplateIsUpdatedSuccessfully>
-    <MessageTemplateCouldnotBeUpdated>Error: Couldn't update Message Template! Please try again! </MessageTemplateCouldnotBeUpdated>    
-    <MessageTemplateCouldnotBeAdded>Error:Couldn't add Message Template ! Please try again! </MessageTemplateCouldnotBeAdded>
+    <MessageTemplateCouldnotBeUpdated>Error: Couldn't update Message Template! Please try again!</MessageTemplateCouldnotBeUpdated>
+    <MessageTemplateCouldnotBeAdded>Error:Couldn't add Message Template ! Please try again!</MessageTemplateCouldnotBeAdded>
     <PleaseFill>Please fill up the field(s) below. </PleaseFill>
     <MessageTemplateSubject>Message template subject </MessageTemplateSubject>
     <MessageTemplateBody>Message template body </MessageTemplateBody>
@@ -148,8 +148,8 @@
     <PortalAlreadyExist>This portal name already exists or can't be added this time!</PortalAlreadyExist>
     <StoreSaveSuccessfully>Your store is created successfully and email has been sent to your provided email address with the login credentials.</StoreSaveSuccessfully>
     <StoreAlreadyExist>This store name already exists or can't be added this time!</StoreAlreadyExist>
-    <EmailSendProblem>Your store has been created but problem occured while sending email! Please contact us at info@aspxcommerce.com</EmailSendProblem>
-    <PortalAddEmailSendProblem>The portal has been created but problem occured while sending email!</PortalAddEmailSendProblem>
+    <EmailSendProblem>Your store has been created but problem occurred while sending email! Please contact us at info@aspxcommerce.com</EmailSendProblem>
+    <PortalAddEmailSendProblem>The portal has been created but problem occurred while sending email!</PortalAddEmailSendProblem>
     <PortalAlreadyExists>Portal with the same name already exists.</PortalAlreadyExists>
     <PortalSettingIsSavedSuccessfully>Portal setting has been saved successfully.</PortalSettingIsSavedSuccessfully>
     <PortalDeleteSuccessfully>Portal has been deleted successfully.</PortalDeleteSuccessfully>
@@ -166,7 +166,7 @@
     <ModuleDefinitionIsUpdatedSuccessfully>Module definition has been updated successfully.</ModuleDefinitionIsUpdatedSuccessfully>
     <ModuleExtensionIsAddedSuccessfully>Module extension has been added successfully.</ModuleExtensionIsAddedSuccessfully>
     <ModuleExtensionIsUpdatedSuccessfully>Module extension has been updated successfully.</ModuleExtensionIsUpdatedSuccessfully>
-    <ModuleIsDeletedSuccessfully>Module has been deleted successfully.</ModuleIsDeletedSuccessfully>    
+    <ModuleIsDeletedSuccessfully>Module has been deleted successfully.</ModuleIsDeletedSuccessfully>
     <TheModuleIsInstalledSuccessfully>Module has been installed successfully.</TheModuleIsInstalledSuccessfully>
     <LastUpdatedBy>Last Updated By: </LastUpdatedBy>
     <WarningMessageWillDeleteAllFiles>Repairing  previous installed module will overwrite all database and files content.</WarningMessageWillDeleteAllFiles>
@@ -178,13 +178,13 @@
     <ThereIsErrorWhileInstallingThisModule>Error occurred while installing this module!</ThereIsErrorWhileInstallingThisModule>
     <AcceptThePackageLicenseAgreementFirst>Please accept the package license agreement.</AcceptThePackageLicenseAgreementFirst>
     <CreatedBy>Created By: </CreatedBy>
-    <ThereIsErrorWhileInstalling>Error occured during installation!</ThereIsErrorWhileInstalling>
+    <ThereIsErrorWhileInstalling>Error occurred during installation!</ThereIsErrorWhileInstalling>
     <ModuleInstalledSuccessfully>Module has been installed successfully.</ModuleInstalledSuccessfully>
-    <ErrorWhileInstalling>Error occured during installation!</ErrorWhileInstalling>
+    <ErrorWhileInstalling>Error occurred during installation!</ErrorWhileInstalling>
     <ConfirmUninstallExtension>Are you sure you want to uninstall this extension?</ConfirmUninstallExtension>
-    <ModuleFolderDoesnotExist>Conflict Occured: Specified folder name doesn't exist in database, you need to configure it manually!</ModuleFolderDoesnotExist>
+    <ModuleFolderDoesnotExist>Conflict Occurred: Specified folder name doesn't exist in database, you need to configure it manually!</ModuleFolderDoesnotExist>
     <ThisModuleSeemsToBeCorrupted>This module extension package is corrupt!</ThisModuleSeemsToBeCorrupted>
-    <ModuleExtensionIsUninstallError>Error occured during uninstallation!</ModuleExtensionIsUninstallError>
+    <ModuleExtensionIsUninstallError>Error occurred during uninstallation!</ModuleExtensionIsUninstallError>
     <ModuleExtensionIsUninstalledSuccessfully>Module extension has been uninstalled successfully.</ModuleExtensionIsUninstalledSuccessfully>
     <AreYouSureToSaveChanges>Are you sure you want to save the changes?</AreYouSureToSaveChanges>
     <AreYouSureToDelete>Are you sure you want to delete?</AreYouSureToDelete>
@@ -269,8 +269,8 @@
     <PasswordDoesnotMatched>Passwords don't match.</PasswordDoesnotMatched>
     <PasswordLength>Password must contain at least four characters.</PasswordLength>
     <RecoveryCodeAlreadyActivated>The recovery code is no longer active.</RecoveryCodeAlreadyActivated>
-    <SecureConnectionFPError>Problem occured while sending email! It may be because server does not support secure connection. Please contact the administrator. </SecureConnectionFPError>
-    <SecureConnectionFPRError>Your password has been changed successfully. But problem occured while sending email! It may be because server does not support secure connection. Please contact the administrator. </SecureConnectionFPRError>
+    <SecureConnectionFPError>Problem occurred while sending email!It may be because server does not support secure connection. Please contact the administrator.</SecureConnectionFPError>
+    <SecureConnectionFPRError>Your password has been changed successfully.But problem occurred while sending email!It may be because server does not support secure connection. Please contact the administrator.</SecureConnectionFPRError>
   </PasswordRecovery>
   <UserRegistration>
     <InvalidActivationCode>Invalid activation code!</InvalidActivationCode>
@@ -308,8 +308,7 @@
   <ContactUs>
     <ContactUsIsAddedSuccessfully>Thank you! You have been added to our contact list successfully.</ContactUsIsAddedSuccessfully>
     <ContactUsEmailSubject>Email Alert!</ContactUsEmailSubject>
-  </ContactUs> 
-
+  </ContactUs>
   <PortalModules>
     <SelectedChangesAreSavedSuccessfully>Selected changes have been saved successfully.</SelectedChangesAreSavedSuccessfully>
     <AreYouSureToSaveChanges>Are you sure you want to save the changes?</AreYouSureToSaveChanges>
@@ -319,7 +318,7 @@
     <CSSIsSavedSuccessfully>CSS has been saved successfully.</CSSIsSavedSuccessfully>
   </CSSManagement>
   <TemplateManagement>
-    <UnknownError>Unknown error has occured!</UnknownError>
+    <UnknownError>An Unknown error has occurred!</UnknownError>
     <TemplateSavedSuccessfully>Template has been saved successfully.</TemplateSavedSuccessfully>
     <TemplateDeletedSuccessfully>Template has been deleted successfully.</TemplateDeletedSuccessfully>
     <TemplateIsInUse>This template is in use. It cannot be deleted!</TemplateIsInUse>
@@ -376,7 +375,7 @@
     <ThemeDeleted>Theme has been deleted successfully.</ThemeDeleted>
     <PresetDeleted>Preset has been deleted successfully.</PresetDeleted>
     <PresetSaved>Congratulations! Preset has been saved successfully.</PresetSaved>
-    <ApplyToAllForMultiplePresets>Sorry! "All Pages" cannot be applied to multiple presets!</ApplyToAllForMultiplePresets>
+    <ApplyToAllForMultiplePresets>Sorry! All Pages cannot be applied to multiple presets!</ApplyToAllForMultiplePresets>
     <PageAlreadyAppliedToPreset>Presets are already applied to some of these pages. Only those with no presets are saved!</PageAlreadyAppliedToPreset>
     <PresetAlreadyExists>A preset with the same name already exists! Please try a different name.</PresetAlreadyExists>
     <ActivePresetCannotBeDeleted>Active preset cannot be deleted.</ActivePresetCannotBeDeleted>
@@ -396,4 +395,3 @@
     <FileNotFound>File could not be found.</FileNotFound>
   </TemplateFileManager>
 </SageFrameMessage>
-

@@ -17,8 +17,7 @@
                 <td width="30">:
                 </td>
                 <td>
-                    <asp:DropDownList ID="ddlControlUrl" ToolTip="Select Control Url"
-                        runat="server"
+                    <asp:DropDownList ID="ddlControlUrl" ToolTip="Select Control Url" runat="server"
                         AutoPostBack="False" CssClass="sfListmenu">
                     </asp:DropDownList>
                 </td>

@@ -24,3 +24,8 @@ C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame
 C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.Dashboard.pdb
 C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.dll
 C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.pdb
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame\bin\SageFrame.Dashboard.dll
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame\bin\SageFrame.Dashboard.pdb
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.dll
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.pdb
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.csprojResolveAssemblyReference.cache

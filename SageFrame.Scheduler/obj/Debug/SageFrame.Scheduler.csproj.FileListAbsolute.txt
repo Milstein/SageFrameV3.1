@@ -24,3 +24,8 @@ C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame
 C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.Scheduler.pdb
 C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.dll
 C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.pdb
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame\bin\SageFrame.Scheduler.dll
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame\bin\SageFrame.Scheduler.pdb
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.dll
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.pdb
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.csprojResolveAssemblyReference.cache

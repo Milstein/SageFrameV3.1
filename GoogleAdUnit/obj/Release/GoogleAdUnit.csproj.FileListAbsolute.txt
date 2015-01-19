@@ -25,3 +25,7 @@ C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\GoogleAdUnit\bin\Releas
 C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\GoogleAdUnit\obj\Release\GoogleAdUnit.csprojResolveAssemblyReference.cache
 C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\GoogleAdUnit\obj\Release\SFE.GoogleAdUnit.dll
 C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\GoogleAdUnit\obj\Release\SFE.GoogleAdUnit.pdb
+D:\!@Localhost\!@F\SageFrameV3.1\GoogleAdUnit\bin\Release\SFE.GoogleAdUnit.dll
+D:\!@Localhost\!@F\SageFrameV3.1\GoogleAdUnit\bin\Release\SFE.GoogleAdUnit.pdb
+D:\!@Localhost\!@F\SageFrameV3.1\GoogleAdUnit\obj\Release\SFE.GoogleAdUnit.dll
+D:\!@Localhost\!@F\SageFrameV3.1\GoogleAdUnit\obj\Release\SFE.GoogleAdUnit.pdb

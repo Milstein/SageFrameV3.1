@@ -24,3 +24,8 @@ C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame
 C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.ExtractTemplate.pdb
 C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.dll
 C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.pdb
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame\bin\SageFrame.ExtractTemplate.dll
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame\bin\SageFrame.ExtractTemplate.pdb
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.dll
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.pdb
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.csprojResolveAssemblyReference.cache

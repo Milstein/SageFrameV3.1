@@ -24,3 +24,8 @@ C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame
 C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.Logo.pdb
 C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Logo\obj\Debug\SageFrame.Logo.dll
 C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Logo\obj\Debug\SageFrame.Logo.pdb
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame\bin\SageFrame.Logo.dll
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame\bin\SageFrame.Logo.pdb
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.Logo\obj\Debug\SageFrame.Logo.dll
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.Logo\obj\Debug\SageFrame.Logo.pdb
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.Logo\obj\Debug\SageFrame.Logo.csprojResolveAssemblyReference.cache

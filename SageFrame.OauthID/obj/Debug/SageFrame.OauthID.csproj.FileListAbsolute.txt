@@ -24,3 +24,8 @@ C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame
 C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.OauthID.pdb
 C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.dll
 C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.pdb
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame\bin\SageFrame.OauthID.dll
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame\bin\SageFrame.OauthID.pdb
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.dll
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.pdb
+D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.OauthID\obj\Debug\SageFrame.OauthID.csprojResolveAssemblyReference.cache

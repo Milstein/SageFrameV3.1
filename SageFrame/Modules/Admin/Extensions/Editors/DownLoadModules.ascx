@@ -42,8 +42,8 @@
     </h3>
     <div class="cssClassFormWrapper cssClassControlDiv curve">
         <div class="sfSearchWrapper">
-            <asp:TextBox ID="txtSearch" runat="server" CssClass="sfInputbox sfLargeInputbox watermark"></asp:TextBox>
-            <asp:Button ID="btnExtensionSearch" CssClass="sfSearchImg" runat="server" OnClick="btnExtensionSearch_Click" />
+            <asp:TextBox ID="txtSearch" runat="server" CssClass="sfInputbox sfLargeInputbox watermark" meta:resourcekey="txtSearchResource1"></asp:TextBox>
+            <asp:Button ID="btnExtensionSearch" CssClass="sfSearchImg" runat="server" OnClick="btnExtensionSearch_Click" meta:resourcekey="btnExtensionSearchResource1" />
         </div>
     </div>
     <div class="onlineModuleList clearfix">
@@ -54,23 +54,21 @@
                     <div>
                         <div class="sfModuleDetails">
                             <div>
-                                <asp:Label ID="lblTemplateName" runat="server" Text='<%#Eval("FileName") %>' />
-                                 <%--<asp:Label ID="lblDescription" CssClass="sfDescription" runat="server" Text='<%#Eval("Description") %>' />--%>
+                                <asp:Label ID="lblTemplateName" runat="server" Text='<%# Eval("FileName") %>' meta:resourcekey="lblTemplateNameResource1" />
                                 <asp:LinkButton CssClass="icon-download sfBtn" runat="server" ID="lnkDownLoad" CommandName="DownLoad"
-                                    CommandArgument='<%# Eval("URL") %>'></asp:LinkButton>
+                                    CommandArgument='<%# Eval("URL") %>' meta:resourcekey="lnkDownLoadResource1"></asp:LinkButton>
                             </div>
                         </div>
                         <div class="sfModuleThumbs">
-                            <asp:Image ID="imgThubNail" runat="server" ImageUrl='<%#Eval("Thumb") %>' />
+                            <asp:Image ID="imgThubNail" runat="server" ImageUrl='<%# Eval("Thumb") %>' meta:resourcekey="imgThubNailResource1" />
                         </div>
                     </div>
-                    <asp:HiddenField ID="hdnUrl" runat="server" Value='<%#Eval("URL") %>' />
+                    <asp:HiddenField ID="hdnUrl" runat="server" Value='<%# Eval("URL") %>' />
                 </div>
             </ItemTemplate>
             <FooterTemplate>
                 <asp:Label ID="lblEmptyData" CssClass="sfDefaultInfo" Text="No Modules To Display"
-                    runat="server" Visible="false">
-                </asp:Label>
+                    runat="server" Visible="False" meta:resourcekey="lblEmptyDataResource1"></asp:Label>
             </FooterTemplate>
         </asp:Repeater>
     </div>
@@ -79,7 +77,7 @@
     <div class="sfButtonwrapper">
         <label class="icon-close sfBtn">
             Cancel
-            <asp:Button ID="CancelButton" runat="server" AlternateText="Cancel" OnClick="CancelButton_Click" />
+            <asp:Button ID="CancelButton" runat="server" AlternateText="Cancel" OnClick="CancelButton_Click" meta:resourcekey="CancelButtonResource1" />
         </label>
     </div>
 </div>
@@ -89,7 +87,7 @@
     </h2>
     <asp:Wizard ID="wizInstall" Width="100%" runat="server" DisplaySideBar="False" ActiveStepIndex="0"
         DisplayCancelButton="True" OnNextButtonClick="wizInstall_NextButtonClick" OnCancelButtonClick="wizInstall_CancelButtonClick"
-        OnFinishButtonClick="wizInstall_FinishButtonClick" OnActiveStepChanged="wizInstall_ActiveStepChanged">
+        OnFinishButtonClick="wizInstall_FinishButtonClick" OnActiveStepChanged="wizInstall_ActiveStepChanged" meta:resourcekey="wizInstallResource1">
         <FinishNavigationTemplate>
             <div class="sfButtonwrapper">
                 <label class="icon-complete sfBtn">
@@ -194,7 +192,7 @@
                         <table cellspacing="0" cellpadding="0" border="0" width="100%">
                             <tr>
                                 <td>
-                                    <asp:Panel ID="Panel1" runat="server" CssClass="" meta:resourcekey="Panel1Resource1">
+                                    <asp:Panel ID="Panel1" runat="server" meta:resourcekey="Panel1Resource1">
                                         <asp:Label ID="lblLicense" runat="server" Text="License:" meta:resourcekey="lblLicenseResource1"></asp:Label>
                                         <asp:Label ID="lblLicenseD" runat="server" Text="" meta:resourcekey="lblLicenseDResource1"></asp:Label>
                                     </asp:Panel>
@@ -240,7 +238,7 @@
                 <label class="icon-close sfBtn">
                     Cancel
                     <asp:Button ID="CancelButton" runat="server" AlternateText="Cancel" CausesValidation="False"
-                        CommandName="Cancel" CssClass="sfBtn" />
+                        CommandName="Cancel" CssClass="sfBtn" meta:resourcekey="CancelButtonResource2" />
                 </label>
             </div>
         </StepNavigationTemplate>

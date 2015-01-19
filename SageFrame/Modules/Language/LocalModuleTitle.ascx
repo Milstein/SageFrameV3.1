@@ -1,7 +1,7 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="LocalModuleTitle.ascx.cs"
     Inherits="Modules_Language_LocalModuleTitle" %>
 <h1>
-    <asp:Label ID="lblLocalModuleTitle" runat="server" Text="Localize Module Title"></asp:Label>
+    <asp:Label ID="lblLocalModuleTitle" runat="server" Text="Localize Module Title" meta:resourcekey="lblLocalModuleTitleResource1"></asp:Label>
 </h1>
 <div class="sfFormwrapper sfTableOption">
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -26,16 +26,16 @@
 <div class="sfGridwrapper">
     <asp:GridView ID="gdvLocalModuleTitle" class="cssClassKeyValueGrid" DataKeyNames="UserModuleID"
         runat="server" Width="100%" AutoGenerateColumns="False" OnSelectedIndexChanged="gdvLocalModuleTitle_SelectedIndexChanged"
-        OnSelectedIndexChanging="gdvLocalModuleTitle_SelectedIndexChanging" OnPageIndexChanging="gdvLocalModuleTitle_PageIndexChanging">
+        OnSelectedIndexChanging="gdvLocalModuleTitle_SelectedIndexChanging" OnPageIndexChanging="gdvLocalModuleTitle_PageIndexChanging" meta:resourcekey="gdvLocalModuleTitleResource1">
         <Columns>
-            <asp:TemplateField HeaderText="S.N">
+            <asp:TemplateField HeaderText="S.No." meta:resourcekey="TemplateFieldResource1">
                 <ItemTemplate>
                     <%#Container.DataItemIndex+1%>
                 </ItemTemplate>
             </asp:TemplateField>
-            <asp:TemplateField HeaderText="Modules">
+            <asp:TemplateField HeaderText="Modules" meta:resourcekey="TemplateFieldResource2">
                 <ItemTemplate>
-                    <asp:Label ID="lbldefaultValue" runat="server" Text='<%# Eval("UserModuleTitle") %>'></asp:Label>
+                    <asp:Label ID="lbldefaultValue" runat="server" Text='<%# Eval("UserModuleTitle") %>' meta:resourcekey="lbldefaultValueResource1"></asp:Label>
                 </ItemTemplate>
             </asp:TemplateField>
             <asp:TemplateField HeaderText="Module Local Title" meta:resourcekey="TemplateFieldResource6">

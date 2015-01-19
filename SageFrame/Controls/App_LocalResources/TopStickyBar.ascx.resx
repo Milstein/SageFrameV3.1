@@ -138,6 +138,18 @@
   <data name="hlnkDashboardResource1.ToolTip" xml:space="preserve">
     <value />
   </data>
+  <data name="hypLogoResource1.Text" xml:space="preserve">
+    <value>Dashboard</value>
+  </data>
+  <data name="hypLogoResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblVersionResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblVersionResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
   <data name="ListItemResource1.Text" xml:space="preserve">
     <value>fluid</value>
   </data>

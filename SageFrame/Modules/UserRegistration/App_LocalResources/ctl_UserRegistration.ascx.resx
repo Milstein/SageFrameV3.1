@@ -213,12 +213,6 @@
   <data name="lblRegSuccessResource1.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="lblRequiredNotifyResource1.Text" xml:space="preserve">
-    <value>* All Fields are compulsory.</value>
-  </data>
-  <data name="lblRequiredNotifyResource1.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="lblTitleResource1.Text" xml:space="preserve">
     <value>Registration</value>
   </data>

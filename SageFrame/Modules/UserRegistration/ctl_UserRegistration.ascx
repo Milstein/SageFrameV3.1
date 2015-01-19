@@ -14,6 +14,8 @@
             }
         });
 
+
+        $(".sfLocale").SystemLocalize();
         var FinishButton = '#' + '<%=FinishButton.ClientID %>';
         var pwdID = '#' + '<%=Password.ClientID%>';
         $('#minchar').remove();
@@ -59,7 +61,7 @@
                 <table border="0" cellpadding="0" cellspacing="0" width="100%">
                     <tr>
                         <td colspan="2">
-                            <asp:Label ID="lblRequiredNotify" runat="server" Text="* All Fields are compulsory." meta:resourcekey="lblRequiredNotifyResource1" CssClass="sfAllrequired"></asp:Label>
+                            <span class="sfAllrequired sfLocale">* All Fields are compulsory.</span>
                         </td>
                     </tr>
                     <tr>

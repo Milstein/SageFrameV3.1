@@ -22,7 +22,7 @@
                         CssClass="sfInputbox"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="UserNameRequired" runat="server" ControlToValidate="UserName"
                         ErrorMessage="Username is required." ToolTip="Username is required." ValidationGroup="Login1"
-                        CssClass="sfErrorA" meta:resourcekey="UserNameRequiredResource1" InitialValue=""
+                        CssClass="sfErrorA" meta:resourcekey="UserNameRequiredResource1"
                         Text="*"></asp:RequiredFieldValidator>
                 </p>
                 <p class="sfPassword">
@@ -47,7 +47,6 @@
                     <p>
                         <asp:UpdatePanel ID="UpdatePanel1" runat="server">
                             <ContentTemplate>
-                                <%--<p class="sfLocale" style="clear:both; white-space:nowrap;">Enter Captcha Text</p>--%>
                                 <p class="sfCaptcha">
                                     <asp:TextBox placeholder="Enter captcha text" ID="CaptchaValue" runat="server" CssClass="sfInputbox" meta:resourcekey="CaptchaValueResource1"></asp:TextBox>
                                     <asp:RequiredFieldValidator ID="rfvCaptchaValueValidator" runat="server" ControlToValidate="CaptchaValue"

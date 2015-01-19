@@ -85,3 +85,11 @@ D:\SageFrameV3.1\SageFrame.layout\bin\Release\SageFrame.Dashboard.pdb
 D:\SageFrameV3.1\SageFrame.layout\obj\Release\SageFrame.layout.dll
 D:\SageFrameV3.1\SageFrame.layout\obj\Release\SageFrame.layout.pdb
 D:\SageFrameV3.1\SageFrame.layout\obj\Release\SageFrame.layout.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.layout\bin\Release\SageFrame.layout.dll
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.layout\bin\Release\SageFrame.layout.pdb
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.layout\bin\Release\SageFrame.Common.dll
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.layout\bin\Release\SageFrame.Dashboard.dll
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.layout\bin\Release\SageFrame.Common.pdb
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.layout\bin\Release\SageFrame.Dashboard.pdb
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.layout\obj\Release\SageFrame.layout.dll
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.layout\obj\Release\SageFrame.layout.pdb

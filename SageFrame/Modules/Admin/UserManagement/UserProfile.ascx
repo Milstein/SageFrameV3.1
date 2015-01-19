@@ -68,7 +68,7 @@
                 <div class="sfImagewrapper">
                     <p class="sfDisplayName">
                         <asp:Label ID="Label1" runat="server" CssClass="sfFormlabel" Text="User Name" meta:resourcekey="Label1Resource1"></asp:Label>
-                        <asp:Label ID="lblDisplayUserName" runat="server" CssClass="sfFormlabel sfDefaultName"></asp:Label>
+                        <asp:Label ID="lblDisplayUserName" runat="server" CssClass="sfFormlabel sfDefaultName" meta:resourcekey="lblDisplayUserNameResource1"></asp:Label>
                     </p>
                     <div class="sfDefaultImage">
                         <asp:Image ID="imgUser" runat="server" Width="120px" meta:resourcekey="imgUserResource1" />
@@ -157,33 +157,33 @@
                                 <asp:Label ID="Label18" runat="server" CssClass="sfFormlabel" Text="Email" meta:resourcekey="Label18Resource1"></asp:Label>
                             </td>
                             <td>
-                                <asp:TextBox ID="txtEmail1" runat="server" CssClass="sfInputbox"></asp:TextBox>
+                                <asp:TextBox ID="txtEmail1" runat="server" CssClass="sfInputbox" meta:resourcekey="txtEmail1Resource1"></asp:TextBox>
                                 <asp:RegularExpressionValidator ID="revEmail1" runat="server" ControlToValidate="txtEmail1"
                                     Display="Dynamic" SetFocusOnError="True" ValidationGroup="rfvUserProfile"
-                                    ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*" CssClass="sfError"></asp:RegularExpressionValidator>
+                                    ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*" CssClass="sfError" meta:resourcekey="revEmail1Resource1"></asp:RegularExpressionValidator>
                             </td>
                         </tr>
                         <tr>
                             <td></td>
                             <td>
-                                <asp:TextBox ID="txtEmail2" runat="server" CssClass="sfInputbox"></asp:TextBox>
+                                <asp:TextBox ID="txtEmail2" runat="server" CssClass="sfInputbox" meta:resourcekey="txtEmail2Resource1"></asp:TextBox>
                                 <asp:RegularExpressionValidator ID="revEmail2" runat="server" ControlToValidate="txtEmail2"
                                     Display="Dynamic" SetFocusOnError="True"  ValidationGroup="rfvUserProfile"
-                                    ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*" CssClass="sfError"></asp:RegularExpressionValidator>
+                                    ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*" CssClass="sfError" meta:resourcekey="revEmail2Resource1"></asp:RegularExpressionValidator>
                             </td>
                         </tr>
                         <tr>
                             <td></td>
                             <td>
-                                <asp:TextBox ID="txtEmail3" runat="server" CssClass="sfInputbox"></asp:TextBox>
+                                <asp:TextBox ID="txtEmail3" runat="server" CssClass="sfInputbox" meta:resourcekey="txtEmail3Resource1"></asp:TextBox>
                                 <asp:RegularExpressionValidator ID="revEmail3" runat="server" ControlToValidate="txtEmail3"
                                     Display="Dynamic" SetFocusOnError="True"  ValidationGroup="rfvUserProfile"
-                                    ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*" CssClass="sfError"></asp:RegularExpressionValidator>
+                                    ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*" CssClass="sfError" meta:resourcekey="revEmail3Resource1"></asp:RegularExpressionValidator>
                             </td>
                         </tr>
                         <tr>
                             <td>
-                                <asp:Label ID="lblResPhone" runat="server" CssClass="sfFormlabel" Text="Res. Phone"
+                                <asp:Label ID="lblResPhone" runat="server" CssClass="sfFormlabel" Text="Resident Phone"
                                     meta:resourcekey="lblResPhoneResource1"></asp:Label>
                             </td>
                             <td>
@@ -250,7 +250,7 @@
                                 Display="Dynamic" meta:resourcekey="RequiredFieldValidator5Resource1"></asp:RequiredFieldValidator>
                             <asp:CompareValidator ID="cvPassword" runat="server" ErrorMessage="Password Doesn't Match"
                                 ControlToValidate="txtRetypeNewPassword" ControlToCompare="txtNewPassword" ValidationGroup="vgManagePassword"
-                                Display="Dynamic"></asp:CompareValidator>
+                                Display="Dynamic" meta:resourcekey="cvPasswordResource1"></asp:CompareValidator>
                             <label id="lblValidationmsg" class="sfRequired">
                             </label>
                         </td>
@@ -360,7 +360,7 @@
                 </tr>
                 <tr id="trViewResPhone" runat="server">
                     <td>
-                        <asp:Label ID="Label10" runat="server" CssClass="sfFormlabel" Text="Res. Phone" meta:resourcekey="Label10Resource1"></asp:Label>
+                        <asp:Label ID="Label10" runat="server" CssClass="sfFormlabel" Text="Resident Phone" meta:resourcekey="Label10Resource1"></asp:Label>
                     </td>
                     <td colspan="2">
                         <asp:Label ID="lblViewResPhone" runat="server" meta:resourcekey="lblViewResPhoneResource1"></asp:Label>

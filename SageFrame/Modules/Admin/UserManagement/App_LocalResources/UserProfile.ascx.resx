@@ -117,7 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="btnDeleteProfilePicResource1.AlternateText" xml:space="preserve">
+  <data name="btnDeleteProfilePicResource1.Text" xml:space="preserve">
     <value />
   </data>
   <data name="btnDeleteProfilePicResource1.ToolTip" xml:space="preserve">
@@ -130,7 +130,7 @@
     <value />
   </data>
   <data name="btnManagePasswordSaveResource1.Text" xml:space="preserve">
-    <value>Change</value>
+    <value />
   </data>
   <data name="btnManagePasswordSaveResource1.ToolTip" xml:space="preserve">
     <value />
@@ -139,6 +139,15 @@
     <value />
   </data>
   <data name="btnSaveResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="cvPasswordResource1.ErrorMessage" xml:space="preserve">
+    <value>Password doesn't Match</value>
+  </data>
+  <data name="cvPasswordResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="cvPasswordResource1.ToolTip" xml:space="preserve">
     <value />
   </data>
   <data name="fuImageResource1.ToolTip" xml:space="preserve">
@@ -157,7 +166,7 @@
     <value />
   </data>
   <data name="Label10Resource1.Text" xml:space="preserve">
-    <value>Res. Phone</value>
+    <value>Resident Phone</value>
   </data>
   <data name="Label10Resource1.ToolTip" xml:space="preserve">
     <value />
@@ -282,12 +291,6 @@
   <data name="lblGenderTextResource1.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="lblImageResource1.Text" xml:space="preserve">
-    <value>Image</value>
-  </data>
-  <data name="lblImageResource1.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="lblLocationResource1.Text" xml:space="preserve">
     <value>Location</value>
   </data>
@@ -313,7 +316,7 @@
     <value />
   </data>
   <data name="lblResPhoneResource1.Text" xml:space="preserve">
-    <value>Res. Phone</value>
+    <value>Resident Phone</value>
   </data>
   <data name="lblResPhoneResource1.ToolTip" xml:space="preserve">
     <value />
@@ -445,6 +448,33 @@
     <value />
   </data>
   <data name="RequiredFieldValidator5Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="revEmail1Resource1.ErrorMessage" xml:space="preserve">
+    <value />
+  </data>
+  <data name="revEmail1Resource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="revEmail1Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="revEmail2Resource1.ErrorMessage" xml:space="preserve">
+    <value />
+  </data>
+  <data name="revEmail2Resource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="revEmail2Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="revEmail3Resource1.ErrorMessage" xml:space="preserve">
+    <value />
+  </data>
+  <data name="revEmail3Resource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="revEmail3Resource1.ToolTip" xml:space="preserve">
     <value />
   </data>
   <data name="txtAboutYouResource1.Text" xml:space="preserve">

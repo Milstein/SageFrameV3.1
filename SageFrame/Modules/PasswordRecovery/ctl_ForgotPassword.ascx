@@ -2,14 +2,16 @@
     Inherits="SageFrame.Modules.PasswordRecovery.ctl_ForgotPassword" %>
 
 <script type="text/javascript">
-    $(function() {
+    $(function () {
         $(".sfLocalee").SystemLocalize();
     });
 </script>
 
 <div class="sfForgotPasswordPage" runat="server" id="divForgotPwd">
     <div class="sfForgotPasswordPageLeft">
-    <h2>Password Recovery</h2>
+        <h2>
+            <asp:Label ID="lblTitle" runat="server" Text="Password Recovery" meta:resourcekey="lblTitleResource1"></asp:Label>
+        </h2>
         <asp:Wizard ID="wzdForgotPassword" runat="server" DisplaySideBar="False" ActiveStepIndex="0"
             DisplayCancelButton="True" OnCancelButtonClick="CancelButton_Click" OnFinishButtonClick="wzdForgotPassword_FinishButtonClick"
             OnNextButtonClick="wzdForgotPassword_NextButtonClick" meta:resourcekey="wzdForgotPasswordResource1">

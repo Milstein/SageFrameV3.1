@@ -16,3 +16,7 @@ D:\SageFrameV3.1\SageFrame\bin\SageFrame.BreadCrum.pdb
 D:\SageFrameV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.dll
 D:\SageFrameV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.pdb
 D:\SageFrameV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.BreadCrum.dll
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.BreadCrum.pdb
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.dll
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.pdb

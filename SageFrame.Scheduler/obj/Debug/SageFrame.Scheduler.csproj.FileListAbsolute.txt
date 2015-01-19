@@ -16,3 +16,7 @@ D:\SageFrameV3.1\SageFrame\bin\SageFrame.Scheduler.pdb
 D:\SageFrameV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.dll
 D:\SageFrameV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.pdb
 D:\SageFrameV3.1\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.Scheduler.dll
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.Scheduler.pdb
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.dll
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.Scheduler\obj\Debug\SageFrame.Scheduler.pdb

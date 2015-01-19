@@ -2,7 +2,7 @@
     Inherits="Modules_Admin_DashboardInfo_DashboardInfo" %>
 <div class="sfWelcomeWrap clearfix" runat="server" id="divDashboardHelp">
     <label class="icon-close sfFloatRight">
-        <asp:Button runat="server" ID="btnDisableDashboardhelp" OnClick="btnDisableDashboardhelp_Click" />
+        <asp:Button runat="server" ID="btnDisableDashboardhelp" OnClick="btnDisableDashboardhelp_Click" meta:resourcekey="btnDisableDashboardhelpResource1" />
     </label>
     <h1>
         Hi! Welcome to SageFrame Welcome Screen.</h1>

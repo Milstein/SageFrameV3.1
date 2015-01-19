@@ -839,7 +839,7 @@
     //]]>
 </script>
 <h1>
-    <asp:Label ID="lblDashMgr" runat="server" Text="Dashboard Link Manager"></asp:Label>
+    <asp:Label ID="lblDashMgr" runat="server" Text="Dashboard Link Manager" meta:resourcekey="lblDashMgrResource1"></asp:Label>
 </h1>
 <div>
     <div id="tabDashboard" class="cssClassTabpanelContent">

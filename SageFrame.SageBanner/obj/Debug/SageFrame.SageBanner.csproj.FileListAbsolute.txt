@@ -16,3 +16,7 @@ D:\SageFrameV3.1\SageFrame\bin\SageFrame.SageBanner.pdb
 D:\SageFrameV3.1\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.dll
 D:\SageFrameV3.1\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.pdb
 D:\SageFrameV3.1\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.SageBanner.dll
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.SageBanner.pdb
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.dll
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.SageBanner\obj\Debug\SageFrame.SageBanner.pdb

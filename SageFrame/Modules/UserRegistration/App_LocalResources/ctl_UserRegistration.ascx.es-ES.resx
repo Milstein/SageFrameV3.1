@@ -327,7 +327,4 @@
   <data name="lblTitleResource1.Text" xml:space="preserve">
     <value>registro</value>
   </data>
-  <data name="lblRequiredNotifyResource1.Text" xml:space="preserve">
-    <value>* Todos los campos son obligatorios.</value>
-  </data>
 </root>

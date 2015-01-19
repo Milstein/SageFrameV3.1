@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="hypPreviewResource1.Text" xml:space="preserve">
-    <value>← Volver a la Página Principal</value>
+    <value>Volver a la página inicial</value>
   </data>
   <data name="imgPrgressResource1.AlternateText" xml:space="preserve">
-    <value>Loading...</value>
+    <value>Cargando ...</value>
   </data>
   <data name="imgPrgressResource1.ToolTip" xml:space="preserve">
-    <value>Loading...</value>
+    <value>Cargando ...</value>
   </data>
   <data name="lblPrgressResource1.Text" xml:space="preserve">
-    <value>Please wait...</value>
+    <value>Por favor espera ...</value>
   </data>
   <data name="PageResource1.Title" xml:space="preserve">
     <value>SageFrame Website</value>

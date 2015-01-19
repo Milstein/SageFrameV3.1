@@ -14,3 +14,7 @@ D:\SageFrameV3.1\SageFrame\bin\SageFrame.Version.dll
 D:\SageFrameV3.1\SageFrame\bin\SageFrame.Version.pdb
 D:\SageFrameV3.1\SageFrame.Version\obj\Debug\SageFrame.Version.dll
 D:\SageFrameV3.1\SageFrame.Version\obj\Debug\SageFrame.Version.pdb
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.Version.dll
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.Version.pdb
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.Version\obj\Debug\SageFrame.Version.dll
+C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.Version\obj\Debug\SageFrame.Version.pdb

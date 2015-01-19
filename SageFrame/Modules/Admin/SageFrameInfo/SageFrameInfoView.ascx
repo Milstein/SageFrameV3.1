@@ -172,7 +172,7 @@ var DashBoardGrid={
 </script>
 
 <h1>
-    <asp:Label ID="lblSfInfo" runat="server" Text="SageFrame Information Panel"></asp:Label>
+    <asp:Label ID="lblSfInfo" runat="server" Text="SageFrame Information Panel" meta:resourcekey="lblSfInfoResource1"></asp:Label>
 </h1>
 <!--Accordion-->
 <div class="sfInformation">

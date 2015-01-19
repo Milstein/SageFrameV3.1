@@ -156,8 +156,8 @@
   <data name="imbBorderResource1.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="imbDeleteResource1.AlternateText" xml:space="preserve">
-    <value />
+  <data name="imbDeleteResource1.Text" xml:space="preserve">
+    <value>Delete</value>
   </data>
   <data name="imbDeleteResource1.ToolTip" xml:space="preserve">
     <value>Delete</value>
@@ -168,14 +168,14 @@
   <data name="imblinkResource1.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="ImbPreviewResource1.AlternateText" xml:space="preserve">
-    <value />
+  <data name="ImbPreviewResource1.Text" xml:space="preserve">
+    <value>Preview</value>
   </data>
   <data name="ImbPreviewResource1.ToolTip" xml:space="preserve">
     <value>Preview</value>
   </data>
-  <data name="ImbSaveResource1.AlternateText" xml:space="preserve">
-    <value />
+  <data name="ImbSaveResource1.Text" xml:space="preserve">
+    <value>Save</value>
   </data>
   <data name="ImbSaveResource1.ToolTip" xml:space="preserve">
     <value>Save</value>
@@ -222,12 +222,6 @@
   <data name="lblChannelIDResource1.ToolTip" xml:space="preserve">
     <value />
   </data>
-  <data name="lblDeleteResource1.Text" xml:space="preserve">
-    <value>Delete</value>
-  </data>
-  <data name="lblDeleteResource1.ToolTip" xml:space="preserve">
-    <value />
-  </data>
   <data name="lblFormatResource1.Text" xml:space="preserve">
     <value>Format:</value>
   </data>
@@ -244,18 +238,6 @@
     <value>Link Color:</value>
   </data>
   <data name="lblLinkColorResource1.ToolTip" xml:space="preserve">
-    <value />
-  </data>
-  <data name="lblPreviewResource1.Text" xml:space="preserve">
-    <value>Preview</value>
-  </data>
-  <data name="lblPreviewResource1.ToolTip" xml:space="preserve">
-    <value />
-  </data>
-  <data name="lblSaveResource1.Text" xml:space="preserve">
-    <value>Save</value>
-  </data>
-  <data name="lblSaveResource1.ToolTip" xml:space="preserve">
     <value />
   </data>
   <data name="lblShowinUserModuleResource1.Text" xml:space="preserve">

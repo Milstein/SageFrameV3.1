@@ -1,3 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resourcemaps>
+  <resourcemap>
+    <modules>portal,Core</modules>
+    <map>98801dcc05cbc8c6</map>
+  </resourcemap>
+  <resourcemap>
+    <modules>Core,portal,Sage_Banner,SageMenu</modules>
+    <map>3cef95bb2548b741</map>
+  </resourcemap>
+  <resourcemap>
+    <modules>Core,portal,SageMenu</modules>
+    <map>58bc89c776162bc9</map>
+  </resourcemap>
 </resourcemaps>

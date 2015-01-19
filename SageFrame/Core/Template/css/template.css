@@ -765,6 +765,9 @@ input.sfWarning {
   color: #ffffff;
   background-color: #5cb85c;
   border-color: #4cae4c;
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 20px;
 }
 
 .sfSuccessBtn:hover,
@@ -1134,7 +1137,6 @@ a:focus { outline:none;}
 .sfLogininfo ul li.sfRegister a { background:#f5f5f5 url(../images/register.png) no-repeat center;}
 .sfLogininfo ul li a:hover { background-color:#e5e5e5;}
 .sfLogininfo ul li.sfWelcomeMsg { border:none; display: none;}
-
 
 
 /* BANNER */

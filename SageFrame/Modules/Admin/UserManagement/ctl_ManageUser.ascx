@@ -271,9 +271,9 @@
                                 <asp:ListBox ID="lstSelectedRoles" runat="server" SelectionMode="Multiple" CssClass="sfListmenubig"></asp:ListBox>
                             </td>
                         </tr>
-                        <tr runat="server">
-                            <td runat="server"></td>
-                            <td runat="server">
+                        <tr>
+                            <td></td>
+                            <td>
                                 <div class="sfButtonwrapper">
                                     <asp:LinkButton ID="imgManageRoleSave" runat="server" OnClick="imgManageRoleSave_Click"
                                         CssClass="icon-update sfBtn" Text="Update" meta:resourcekey="imgManageRoleSaveResource1" />
@@ -508,7 +508,7 @@
                                 </td>
                             </tr>
                             <tr runat="server">
-                                <td runat="server"></td>
+                                <td></td>
                                 <td runat="server">
                                     <div class="sfButtonwrapper">
                                         <label class="icon-save sfBtn sfLocale">
@@ -571,7 +571,7 @@
                                     <td runat="server">
                                         <asp:Label ID="lblBirthDateTest" runat="server" Text="Date of Birth" CssClass="sfFormlabel"></asp:Label>
                                     </td>
-                                    <td runat="server">
+                                    <td>
                                         <asp:Label runat="server" ID="lblviewBirthDate" CssClass="sfFormlabel"></asp:Label>
                                     </td>
                                 </tr>
@@ -579,7 +579,7 @@
                                     <td id="Td1" runat="server">
                                         <asp:Label ID="lblGenderText" runat="server" Text="Gender" CssClass="sfFormlabel"></asp:Label>
                                     </td>
-                                    <td runat="server">
+                                    <td>
                                         <asp:Label runat="server" ID="lblviewGender" CssClass="sfFormlabel"></asp:Label>
                                     </td>
                                 </tr>
@@ -639,7 +639,7 @@
                                     </td>
                                 </tr>
                                 <tr runat="server">
-                                    <td runat="server"></td>
+                                    <td></td>
                                     <td runat="server">
                                         <div class="sfButtonwrapper">
                                             <asp:LinkButton ID="btnEdit" runat="server" CssClass="icon-edit sfBtn" OnClick="btnEdit_Click"
@@ -666,6 +666,7 @@
 <asp:Panel ID="pnlUser" runat="server" meta:resourcekey="pnlUserResource1">
     <div class="sfFormwrapper clearfix">
         <h2>
+            <%--<asp:Label ID="lblAddUserHeading" runat="server" Text="Add User" meta:resourcekey="lblAddUserHeadingResource1"></asp:Label>--%>
             Add User
         </h2>
         <p class="sfInformation">
@@ -867,9 +868,9 @@
             runat="server" ToolTip="UserSettings" OnClick="imgBtnSettings_Click" meta:resourcekey="imgBtnSettingsResource1" />
 
         <asp:LinkButton ID="imgBtnExportUser" CssClass="icon-excel sfBtn" Text="User Export"
-            runat="server" ToolTip="UserExport" OnClick="imgBtnExportUser_Click" meta:resourcekey="imgBtnExportUserResource1" />
+            runat="server" ToolTip="UserExport" OnClick="imgBtnExportUser_Click" />
         <asp:LinkButton ID="imgBtnImportUser" CssClass="icon-excel sfBtn" Text="User Import"
-            runat="server" ToolTip="UserImport" OnClick="imgBtnImportUser_Click" meta:resourcekey="imgBtnImportUserResource1" />
+            runat="server" ToolTip="UserImport" OnClick="imgBtnImportUser_Click" />
 
 
     </div>
@@ -1029,6 +1030,7 @@
                     <HeaderStyle CssClass="sfDelete" />
                 </asp:TemplateField>
             </Columns>
+            <AlternatingRowStyle CssClass="sfOdd" />
             <EmptyDataRowStyle CssClass="sfEmptyrow" />
             <PagerStyle CssClass="sfPagination" />
             <RowStyle CssClass="sfOdd" />
@@ -1100,7 +1102,7 @@
             ToolTip="Cancel" meta:resourcekey="btnCancelResource1" CssClass="icon-close sfBtn" />
     </div>
 </asp:Panel>
-<asp:Panel ID="pnlUserImport" runat="server" meta:resourcekey="pnlUserImportResource1">
+<asp:Panel ID="pnlUserImport" runat="server">
     <div class="sfFormwrapper">
         <h2>User Import</h2>
         <table cellpadding="0" cellspacing="0" width="100%">
@@ -1110,143 +1112,143 @@
                         User Import File</label>
                 </td>
                 <td>
-                    <asp:FileUpload ID="fuUserImport" runat="server" CssClass="sfUploadfile" meta:resourcekey="fuUserImportResource1" />
-                    <asp:Label ID="lblUserImport" runat="server" meta:resourcekey="lblUserImportResource1"></asp:Label>
+                    <asp:FileUpload ID="fuUserImport" runat="server" CssClass="sfUploadfile" />
+                    <asp:Label ID="lblUserImport" runat="server"></asp:Label>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblImportUserName" runat="server" CssClass="sfFormlabel" meta:resourcekey="lblImportUserNameResource1" Text="UserName"></asp:Label>
+                    <asp:Label ID="lblImportUserName" runat="server" CssClass="sfFormlabel" Text="UserName"></asp:Label>
                 </td>
                 <td>:
                 </td>
                 <td>
-                    <asp:TextBox ID="txtImportUserName" runat="server" CssClass="sfInputbox" Text="UserName" meta:resourcekey="txtImportUserNameResource1"></asp:TextBox>
+                    <asp:TextBox ID="txtImportUserName" runat="server" CssClass="sfInputbox" Text="UserName"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="rfvImportUserNameRequired" runat="server" ControlToValidate="txtImportUserName"
-                        Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError" meta:resourcekey="rfvImportUserNameRequiredResource1"></asp:RequiredFieldValidator>
+                        Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblImportFirstName" runat="server" CssClass="sfFormlabel" meta:resourcekey="lblImportFirstNameResource1" Text="First Name"></asp:Label>
+                    <asp:Label ID="lblImportFirstName" runat="server" CssClass="sfFormlabel" Text="First Name"></asp:Label>
                 </td>
                 <td>:
                 </td>
                 <td>
-                    <asp:TextBox ID="txtImportFirstName" runat="server" CssClass="sfInputbox" Text="FirstName" meta:resourcekey="txtImportFirstNameResource1"></asp:TextBox>
+                    <asp:TextBox ID="txtImportFirstName" runat="server" CssClass="sfInputbox" Text="FirstName"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="rfvImportFirstNameRequired" runat="server" ControlToValidate="txtImportFirstName"
-                        Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError" meta:resourcekey="rfvImportFirstNameRequiredResource1"></asp:RequiredFieldValidator>
+                        Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblImportLastName" runat="server" CssClass="sfFormlabel" meta:resourcekey="lblImportLastNameResource1" Text="Last Name"></asp:Label>
+                    <asp:Label ID="lblImportLastName" runat="server" CssClass="sfFormlabel" Text="Last Name"></asp:Label>
                 </td>
                 <td>:
                 </td>
                 <td>
-                    <asp:TextBox ID="txtImportLastName" runat="server" CssClass="sfInputbox" Text="LastName" meta:resourcekey="txtImportLastNameResource1"></asp:TextBox>
+                    <asp:TextBox ID="txtImportLastName" runat="server" CssClass="sfInputbox" Text="LastName"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="rfvImportLastNameRequired" runat="server" ControlToValidate="txtImportLastName"
-                        Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError" meta:resourcekey="rfvImportLastNameRequiredResource1"></asp:RequiredFieldValidator>
+                        Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblImportEmail" runat="server" CssClass="sfFormlabel" meta:resourcekey="lblImportEmailResource1" Text="Email"></asp:Label>
+                    <asp:Label ID="lblImportEmail" runat="server" CssClass="sfFormlabel" Text="Email"></asp:Label>
                 </td>
                 <td>:
                 </td>
                 <td>
-                    <asp:TextBox ID="txtImportEmail" runat="server" CssClass="sfInputbox" Text="Email" meta:resourcekey="txtImportEmailResource1"></asp:TextBox>
+                    <asp:TextBox ID="txtImportEmail" runat="server" CssClass="sfInputbox" Text="Email"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="rfvImportEmailRequired" runat="server" ControlToValidate="txtImportEmail"
-                        Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError" meta:resourcekey="rfvImportEmailRequiredResource1"></asp:RequiredFieldValidator>
+                        Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblImportPassword" runat="server" CssClass="sfFormlabel" meta:resourcekey="lblImportPasswordResource1" Text="Password"></asp:Label>
+                    <asp:Label ID="lblImportPassword" runat="server" CssClass="sfFormlabel" Text="Password"></asp:Label>
                 </td>
                 <td>:
                 </td>
                 <td>
-                    <asp:TextBox ID="txtImportPassword" runat="server" CssClass="sfInputbox" Text="Password" meta:resourcekey="txtImportPasswordResource1"></asp:TextBox>
+                    <asp:TextBox ID="txtImportPassword" runat="server" CssClass="sfInputbox" Text="Password"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="rfvImportPasswordRequired" runat="server" ControlToValidate="txtImportPassword"
-                        Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError" meta:resourcekey="rfvImportPasswordRequiredResource1"></asp:RequiredFieldValidator>
+                        Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblImportPasswordSalt" runat="server" CssClass="sfFormlabel" meta:resourcekey="lblImportPasswordSaltResource1" Text="Password Salt"></asp:Label>
+                    <asp:Label ID="lblImportPasswordSalt" runat="server" CssClass="sfFormlabel" Text="Password Salt"></asp:Label>
                 </td>
                 <td>:
                 </td>
                 <td>
-                    <asp:TextBox ID="txtImportPasswordSalt" runat="server" CssClass="sfInputbox" Text="PasswordSalt" meta:resourcekey="txtImportPasswordSaltResource1"></asp:TextBox>
+                    <asp:TextBox ID="txtImportPasswordSalt" runat="server" CssClass="sfInputbox" Text="PasswordSalt" ></asp:TextBox>
                     <asp:RequiredFieldValidator ID="rfvImportPasswordSaltRequired" runat="server" ControlToValidate="txtImportPasswordSalt"
-                        Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError" meta:resourcekey="rfvImportPasswordSaltRequiredResource1"></asp:RequiredFieldValidator>
+                        Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblImportPasswordFormat" runat="server" CssClass="sfFormlabel" meta:resourcekey="lblImportPasswordFormatResource1" Text="Password Format"></asp:Label>
+                    <asp:Label ID="lblImportPasswordFormat" runat="server" CssClass="sfFormlabel" Text="Password Format"></asp:Label>
                 </td>
                 <td>:
                 </td>
                 <td>
-                    <asp:TextBox ID="txtImportPasswordFormat" runat="server" CssClass="sfInputbox" Text="PasswordFormat" meta:resourcekey="txtImportPasswordFormatResource1"></asp:TextBox>
+                    <asp:TextBox ID="txtImportPasswordFormat" runat="server" CssClass="sfInputbox" Text="PasswordFormat"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="rfvImportPasswordFormatRequired" runat="server" ControlToValidate="txtImportPasswordFormat"
-                        Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError" meta:resourcekey="rfvImportPasswordFormatRequiredResource1"></asp:RequiredFieldValidator>
+                        Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblImportRoleName" runat="server" CssClass="sfFormlabel" meta:resourcekey="lblImportRoleNameResource1" Text="Role Name"></asp:Label>
+                    <asp:Label ID="lblImportRoleName" runat="server" CssClass="sfFormlabel" Text="Role Name"></asp:Label>
                 </td>
                 <td>:
                 </td>
                 <td>
-                    <asp:TextBox ID="txtImportRoleName" runat="server" CssClass="sfInputbox" Text="RoleName" meta:resourcekey="txtImportRoleNameResource1"></asp:TextBox>
+                    <asp:TextBox ID="txtImportRoleName" runat="server" CssClass="sfInputbox" Text="RoleName"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="rfvImportRoleNameRequired" runat="server" ControlToValidate="txtImportRoleName"
-                        Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError" meta:resourcekey="rfvImportRoleNameRequiredResource1"></asp:RequiredFieldValidator>
+                        Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblImportPortalID" runat="server" CssClass="sfFormlabel" meta:resourcekey="lblImportPortalIDResource1" Text="PortalID"></asp:Label>
+                    <asp:Label ID="lblImportPortalID" runat="server" CssClass="sfFormlabel" Text="PortalID"></asp:Label>
                 </td>
                 <td>:
                 </td>
                 <td>
-                    <asp:TextBox ID="txtImportPortalID" runat="server" CssClass="sfInputbox" Text="PortalID" meta:resourcekey="txtImportPortalIDResource1"></asp:TextBox>
+                    <asp:TextBox ID="txtImportPortalID" runat="server" CssClass="sfInputbox" Text="PortalID"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="rfvImportPortalIDRequired" runat="server" ControlToValidate="txtImportPortalID"
-                        Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError" meta:resourcekey="rfvImportPortalIDRequiredResource1"></asp:RequiredFieldValidator>
+                        Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <asp:Label ID="lblImportIsApproved" runat="server" CssClass="sfFormlabel" meta:resourcekey="lblImportIsApprovedResource1" Text="IsActive"></asp:Label>
+                    <asp:Label ID="lblImportIsApproved" runat="server" CssClass="sfFormlabel" Text="IsActive"></asp:Label>
                 </td>
                 <td>:
                 </td>
                 <td>
-                    <asp:TextBox ID="txtImportIsApproved" runat="server" CssClass="sfInputbox" Text="IsActive" meta:resourcekey="txtImportIsApprovedResource1"></asp:TextBox>
+                    <asp:TextBox ID="txtImportIsApproved" runat="server" CssClass="sfInputbox" Text="IsActive"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="rfvImportIsApprovedRequired" runat="server" ControlToValidate="txtImportIsApproved"
-                        Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError" meta:resourcekey="rfvImportIsApprovedRequiredResource1"></asp:RequiredFieldValidator>
+                        Display="Dynamic" ErrorMessage="*" ValidationGroup="ImportUserValidation" CssClass="sfError"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
                 <td>
                     <label id="lblImport" class="sfLocale icon-save sfBtn">
                         Import
-            <asp:Button runat="server" ID="btnUserImport" OnClick="btnUserImport_Click" ValidationGroup="ImportUserValidation" meta:resourcekey="btnUserImportResource1" />
+            <asp:Button runat="server" ID="btnUserImport" OnClick="btnUserImport_Click" ValidationGroup="ImportUserValidation" />
                     </label>
                     <label id="lblCancel" class="sfLocale icon-close sfBtn">
                         Cancel
-            <asp:Button runat="server" ID="btnImportCancel" OnClick="btnImportCancel_Click" meta:resourcekey="btnImportCancelResource1" />
+            <asp:Button runat="server" ID="btnImportCancel" OnClick="btnImportCancel_Click" />
                     </label>
                     <label id="lblDuplicateUser" class="sfLocale icon-excel sfBtn" runat="server">
                         Export Duplicate User
-            <asp:Button runat="server" ID="btnDuplicateUser" OnClick="btnDuplicateUser_Click" meta:resourcekey="btnDuplicateUserResource1" />
+            <asp:Button runat="server" ID="btnDuplicateUser" OnClick="btnDuplicateUser_Click" />
                     </label>
                 </td>
             </tr>

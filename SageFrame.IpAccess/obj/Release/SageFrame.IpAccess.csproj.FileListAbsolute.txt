@@ -29,3 +29,9 @@ C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.IpAccess\bin\Relea
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.IpAccess\bin\Release\SageFrame.Common.pdb
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.IpAccess\obj\Release\SageFrame.IpAccess.dll
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.IpAccess\obj\Release\SageFrame.IpAccess.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.IpAccess\bin\Release\SageFrame.IpAccess.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.IpAccess\bin\Release\SageFrame.IpAccess.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.IpAccess\bin\Release\SageFrame.Common.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.IpAccess\bin\Release\SageFrame.Common.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.IpAccess\obj\Release\SageFrame.IpAccess.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.IpAccess\obj\Release\SageFrame.IpAccess.pdb

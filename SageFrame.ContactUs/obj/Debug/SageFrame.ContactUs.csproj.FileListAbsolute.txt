@@ -21,3 +21,8 @@ C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\ContactUs.pdb
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.ContactUs\obj\Debug\SageFrame.ContactUs.csprojResolveAssemblyReference.cache
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.ContactUs\obj\Debug\ContactUs.dll
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.ContactUs\obj\Debug\ContactUs.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\ContactUs.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\ContactUs.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.ContactUs\obj\Debug\SageFrame.ContactUs.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.ContactUs\obj\Debug\ContactUs.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.ContactUs\obj\Debug\ContactUs.pdb

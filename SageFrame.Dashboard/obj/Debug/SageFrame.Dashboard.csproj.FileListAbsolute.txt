@@ -20,3 +20,7 @@ C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.Dash
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.Dashboard.pdb
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.dll
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.Dashboard.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.Dashboard.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Dashboard\obj\Debug\SageFrame.Dashboard.pdb

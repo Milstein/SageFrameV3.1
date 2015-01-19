@@ -4,7 +4,7 @@
 <%@ Register Assembly="FredCK.FCKeditorV2" Namespace="FredCK.FCKeditorV2" TagPrefix="FCKeditorV2" %>
 <h1>
     <asp:Label ID="lblMessageTemplateManagement" runat="server" Text="Message Template Management" meta:resourcekey="lblMessageTemplateManagementResource1"></asp:Label></h1>
-<asp:Panel ID="pnlMessageTemplate" runat="server" meta:resourcekey="pnlMessageTemplateResource1">
+<asp:Panel ID="pnlMessageTemplate" runat="server">
     <div class="sfFormwrapper">
         <h2 class="sfFormHeading">
             <asp:Label ID="lblAddEditMessageTemplate" runat="server" Text="Add/Edit Message Template" meta:resourcekey="lblAddEditMessageTemplateResource1"></asp:Label></h2>
@@ -100,12 +100,12 @@
                     <div class="sfCkeditor sfCurve">
                         <table cellspacing="0" cellpadding="0" border="0" id="tblTextEditor" runat="server"
                             width="100%">
-                            <tr runat="server">
+                            <tr>
                                 <td id="Td1" class="editorheading" style="background-color: #ebcd5f;" runat="server">
                                     <asp:Label ID="lblEditorTitle" runat="server" CssClass="sfFormLabel" Text="Editor:" />
                                 </td>
                             </tr>
-                            <tr runat="server">
+                            <tr>
                                 <td id="tdTextEditor" runat="server">
                                     <asp:Panel ID="pnlBasicTextBox" runat="server">
                                         <div id="divEdit" runat="server">
@@ -160,7 +160,7 @@
                 CausesValidation="False" meta:resourcekey="imbCancelResource1" /></label>
     </div>
 </asp:Panel>
-<asp:Panel ID="pnlMessageTemplateList" runat="server" meta:resourcekey="pnlMessageTemplateListResource1">
+<asp:Panel ID="pnlMessageTemplateList" runat="server">
     <div class="sfButtonwrapper">
         <label class="sfLocale icon-addnew sfBtn">
             Add New Message Template
@@ -172,9 +172,8 @@
             GridLines="None" AllowPaging="True" PageSize="15" BorderColor="White" BorderWidth="0px"
             OnPageIndexChanging="grdList_PageIndexChanging" OnRowCommand="grdList_RowCommand"
             OnRowDataBound="grdList_RowDataBound" OnRowDeleting="grdList_RowDeleting" OnRowEditing="grdList_RowEditing"
-            OnRowUpdating="grdList_RowUpdating" Width="100%" meta:resourcekey="grdListResource1">
-            <AlternatingRowStyle CssClass="cssClassAlternativeEven" />
-            <Columns>
+            OnRowUpdating="grdList_RowUpdating" Width="100%">
+             <Columns>
                 <asp:TemplateField HeaderText="Message Template Subject" meta:resourcekey="TemplateFieldResource1">
                     <ItemTemplate>
                         <asp:LinkButton ID="LinkButton1" runat="server" CommandArgument='<%# Eval("MessageTemplateID") %>' CommandName="Edit"><asp:Label runat="server" Text='<%# Eval("Subject") %>' ID="lblSubject" meta:resourcekey="lblSubjectResource2"></asp:Label>
@@ -215,6 +214,7 @@
                     <ItemStyle HorizontalAlign="Left" VerticalAlign="Top" />
                 </asp:TemplateField>
             </Columns>
+            <AlternatingRowStyle CssClass="cssClassAlternativeEven" />
             <HeaderStyle CssClass="cssClassHeadingOne" />
             <PagerStyle CssClass="sfPagination" />
             <RowStyle CssClass="cssClassAlternativeOdd" />
@@ -226,20 +226,20 @@
     cancelcontrolid="btnAddMessageTokenCancel" popupdraghandlecontrolid="pnlAddMessageTokenHandle"
     repositionmode="RepositionOnWindowScroll" dynamicservicepath="" enabled="True">
 </cc2:modalpopupextender>
-<asp:Panel ID="pnlAddMessageTokenPopup" runat="server" Style="display: none;" meta:resourcekey="pnlAddMessageTokenPopupResource1">
+<asp:Panel ID="pnlAddMessageTokenPopup" runat="server" Style="display: none;">
     <div class="sfPopup">
         <div class="sfPopupinner">
-            <asp:Panel ID="pnlAddMessageTokenHandle" runat="server" CssClass="cssClassPopTitle" meta:resourcekey="pnlAddMessageTokenHandleResource1">
+            <asp:Panel ID="pnlAddMessageTokenHandle" runat="server" CssClass="cssClassPopTitle">
                 Select message token</asp:Panel>
             <div class="sfPopupclose" id="btnAddMessageTokenCancel" runat="server">
             </div>
-            <asp:Panel ID="pnlPopupBody" runat="server" meta:resourcekey="pnlPopupBodyResource1">
-                <asp:ListBox ID="lstMessageToken" runat="server" Rows="10" CssClass="cssClassPopUpMessage" meta:resourcekey="lstMessageTokenResource1">
+            <asp:Panel ID="pnlPopupBody" runat="server">
+                <asp:ListBox ID="lstMessageToken" runat="server" Rows="10" CssClass="cssClassPopUpMessage">
                 </asp:ListBox>
             </asp:Panel>
             <div class="sfButtonwrapper">
                 <input type="button" id="btnAddMessageTokenOk" runat="server" value="Add" class="sfBtn" />
-            &nbsp;&nbsp;</div>
+            </div>
         </div>
     </div>
 </asp:Panel>
@@ -250,9 +250,9 @@
     repositionmode="RepositionOnWindowScroll" runat="server" dynamicservicepath=""
     enabled="True">
 </cc2:modalpopupextender>
-<asp:Panel ID="pnlMessageTemplateType" runat="server" Style="display: none" CssClass="sfPopup" meta:resourcekey="pnlMessageTemplateTypeResource1">
-    <asp:Panel ID="pnlDragHandlerMessageTemplateType" runat="server" meta:resourcekey="pnlDragHandlerMessageTemplateTypeResource1">
-        <asp:Label ID="lblAMTT" runat="server" Text="Add Message Template Type" CssClass="cssClassPopTitle" meta:resourcekey="lblAMTTResource1"></asp:Label>
+<asp:Panel ID="pnlMessageTemplateType" runat="server" Style="display: none" CssClass="sfPopup">
+    <asp:Panel ID="pnlDragHandlerMessageTemplateType" runat="server">
+        <asp:Label ID="lblAMTT" runat="server" Text="Add Message Template Type" CssClass="cssClassPopTitle"></asp:Label>
     </asp:Panel>
     <div class="sfPopupclose" id="btnCancelMessageTemplateType" runat="server">
     </div>
@@ -288,9 +288,9 @@
     repositionmode="RepositionOnWindowScroll" runat="server" dynamicservicepath=""
     enabled="True">
 </cc2:modalpopupextender>
-<asp:Panel ID="pnlMessageTemplateToken" runat="server" Style="display: none" CssClass="sfPopup" meta:resourcekey="pnlMessageTemplateTokenResource1">
-    <asp:Panel ID="pnlDragHandlerMessageTemplateToken" runat="server" CssClass="cssClassPopTitle" meta:resourcekey="pnlDragHandlerMessageTemplateTokenResource1">
-        <asp:Label ID="lblMessageTempToken" runat="server" Text="Add Message Template Token" meta:resourcekey="lblMessageTempTokenResource1"></asp:Label>
+<asp:Panel ID="pnlMessageTemplateToken" runat="server" Style="display: none" CssClass="sfPopup">
+    <asp:Panel ID="pnlDragHandlerMessageTemplateToken" runat="server" CssClass="cssClassPopTitle">
+        <asp:Label ID="lblMessageTempToken" runat="server" Text="Add Message Template Token"></asp:Label>
     </asp:Panel>
     <div class="sfPopupclose" id="btnCancelMessageTemplateToken" runat="server">
     </div>

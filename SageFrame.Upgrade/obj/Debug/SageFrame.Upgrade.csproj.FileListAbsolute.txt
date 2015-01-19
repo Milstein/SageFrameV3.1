@@ -21,3 +21,8 @@ C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.Upgr
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.Upgrade\obj\Debug\SageFrame.Upgrade.csprojResolveAssemblyReference.cache
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.Upgrade\obj\Debug\SageFrame.Upgrade.dll
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.Upgrade\obj\Debug\SageFrame.Upgrade.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.Upgrade.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.Upgrade.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Upgrade\obj\Debug\SageFrame.Upgrade.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Upgrade\obj\Debug\SageFrame.Upgrade.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Upgrade\obj\Debug\SageFrame.Upgrade.pdb

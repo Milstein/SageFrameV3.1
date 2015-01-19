@@ -20,3 +20,7 @@ C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.Logo
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.Logo.pdb
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.Logo\obj\Debug\SageFrame.Logo.dll
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.Logo\obj\Debug\SageFrame.Logo.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.Logo.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.Logo.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Logo\obj\Debug\SageFrame.Logo.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Logo\obj\Debug\SageFrame.Logo.pdb

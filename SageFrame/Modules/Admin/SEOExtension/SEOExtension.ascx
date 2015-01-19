@@ -43,9 +43,13 @@
                     <asp:Button ID="imbSave" runat="server" OnClick="imbSave_Click" ToolTip="Save" 
                         CausesValidation="False" ValidationGroup="GJSC" 
                         meta:resourcekey="imbSaveResource1"  /></label>
+                    <%--<asp:Label ID="lblSave" runat="server" Text="Update" ToolTip="Save" AssociatedControlID="imbSave"
+                        Style="cursor: pointer;" meta:resourcekey="lblSaveResource1"></asp:Label>--%>
                 <label  class="icon-refresh sfBtn">Refresh
                     <asp:Button ID="imbRefresh" runat="server" ToolTip="Refresh" OnClick="imbRefresh_Click"
                         CausesValidation="False" meta:resourcekey="imbRefreshResource1" /></label>
+                   <%-- <asp:Label ID="lblRefresh" runat="server" Text="Refresh" ToolTip="Refresh" AssociatedControlID="imbRefresh"
+                        Style="cursor: pointer;" meta:resourcekey="lblRefreshResource1"></asp:Label>--%>
                 </div>
             </ContentTemplate>
         </cc1:TabPanel>
@@ -100,7 +104,7 @@
                                     CssClass="sfFormlabel" meta:resourcekey="lblDisplayResource1"></asp:Label>
                             </td>
                             <td><label class="sfLocale icon-generate sfBtn">Generate
-                                <asp:Button ID="BtnGenerateSitemap" runat="server"
+                                <asp:Button ID="BtnGenerateSitemap" runat="server" Text=""
                                     OnClick="btnGenerateSitemap_Click" 
                                     meta:resourcekey="BtnGenerateSitemapResource1" /></label>
                             </td>
@@ -156,7 +160,8 @@
                             </td>
                             <td>
                             <label class="sfLocale icon-generate sfBtn">Generate Robots
-                                <asp:Button ID="btnGenerateRobots" runat="server" ValidationGroup="checkselected" OnClick="btnGenerateRobots_Click" 
+                                <asp:Button ID="btnGenerateRobots" runat="server" ValidationGroup="checkselected"
+                                     Text="" OnClick="btnGenerateRobots_Click" 
                                     meta:resourcekey="btnGenerateRobotsResource1"></asp:Button></label>
                             </td>
                         </tr>

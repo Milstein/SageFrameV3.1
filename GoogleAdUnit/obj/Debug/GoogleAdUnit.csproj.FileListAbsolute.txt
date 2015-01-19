@@ -18,3 +18,7 @@ C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SFE.GoogleAdUn
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SFE.GoogleAdUnit.pdb
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.dll
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SFE.GoogleAdUnit.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SFE.GoogleAdUnit.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.pdb

@@ -18,3 +18,7 @@ C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.IPAd
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.IPAddressToCountryResolver.pdb
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.dll
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.IPAddressToCountryResolver.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.IPAddressToCountryResolver.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.IPAddressToCountryResolver\obj\Debug\SageFrame.IPAddressToCountryResolver.pdb

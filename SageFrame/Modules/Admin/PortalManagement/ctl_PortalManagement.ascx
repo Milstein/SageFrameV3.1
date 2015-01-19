@@ -172,6 +172,7 @@
                                             <HeaderStyle CssClass="cssClassColumnIsActive" />
                                         </asp:TemplateField>
                                     </Columns>
+                                    <AlternatingRowStyle CssClass="sfEven" />
                                     <HeaderStyle CssClass="cssClassHeadingOne" />
                                     <PagerStyle CssClass="sfPagination" />
                                     <RowStyle CssClass="sfOdd" />
@@ -244,6 +245,7 @@
                         <HeaderStyle CssClass="sfDelete" />
                     </asp:TemplateField>
                 </Columns>
+                <AlternatingRowStyle CssClass="sfEven" />
                 <RowStyle CssClass="sfOdd" />
             </asp:GridView>
         </div>

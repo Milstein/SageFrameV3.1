@@ -18,3 +18,7 @@ C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.Version\bin\Releas
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.Version\bin\Release\SageFrame.Version.pdb
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.Version\obj\Release\SageFrame.Version.dll
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.Version\obj\Release\SageFrame.Version.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Version\bin\Release\SageFrame.Version.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Version\bin\Release\SageFrame.Version.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Version\obj\Release\SageFrame.Version.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Version\obj\Release\SageFrame.Version.pdb

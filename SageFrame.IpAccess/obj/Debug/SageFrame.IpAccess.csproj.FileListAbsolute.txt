@@ -20,3 +20,7 @@ C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.IpAc
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.IpAccess.pdb
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.dll
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.IpAccess.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.IpAccess.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.pdb

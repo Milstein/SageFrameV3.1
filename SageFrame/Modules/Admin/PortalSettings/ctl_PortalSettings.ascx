@@ -510,6 +510,8 @@
                 <div class="sfButtonwrapper">
                     <asp:LinkButton ID="imbRestart" runat="server" OnClick="imbRestart_Click"  Text="Restart Application" CssClass="icon-refresh sfBtn" ToolTip="Restart Application"
                         meta:resourcekey="imbRestartResource1" />
+                    <%--<asp:Label ID="lblRestart" runat="server" Text="Restart Application" AssociatedControlID="imbRestart"
+                        ToolTip="Restart Application" Style="cursor: pointer;" meta:resourcekey="lblRestartResource1"></asp:Label>--%>
                 </div>
                 <sfe:sectionheadcontrol ID="shcConfiguration" runat="server" Section="tblConfiguration"
                     IncludeRule="false" IsExpanded="true" Text="Configuration" />

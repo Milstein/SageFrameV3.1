@@ -31,3 +31,10 @@ C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.Scheduler\bin\Rele
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.Scheduler\bin\Release\SageFrame.Common.pdb
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.Scheduler\obj\Release\SageFrame.Scheduler.dll
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.Scheduler\obj\Release\SageFrame.Scheduler.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Scheduler\bin\Release\SageFrame.Scheduler.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Scheduler\bin\Release\SageFrame.Scheduler.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Scheduler\bin\Release\SageFrame.Common.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Scheduler\bin\Release\SageFrame.Common.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Scheduler\obj\Release\SageFrame.Scheduler.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Scheduler\obj\Release\SageFrame.Scheduler.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.Scheduler\obj\Release\SageFrame.Scheduler.pdb

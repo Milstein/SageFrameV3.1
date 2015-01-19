@@ -23,3 +23,8 @@ C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.File
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.csprojResolveAssemblyReference.cache
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.dll
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.FileManager.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.FileManager.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.FileManager\obj\Debug\SageFrame.FileManager.pdb

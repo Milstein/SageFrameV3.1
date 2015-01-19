@@ -20,3 +20,7 @@ C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.Extr
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.ExtractTemplate.pdb
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.dll
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.ExtractTemplate.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.ExtractTemplate.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.ExtractTemplate\obj\Debug\SageFrame.ExtractTemplate.pdb

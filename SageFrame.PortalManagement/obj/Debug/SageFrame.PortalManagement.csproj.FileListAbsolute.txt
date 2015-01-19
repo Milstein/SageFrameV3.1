@@ -20,3 +20,7 @@ C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.Port
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.PortalManagement.pdb
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.dll
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.PortalManagement.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.PortalManagement.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.pdb

@@ -23,3 +23,8 @@ C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame\bin\SageFrame.Menu
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.csprojResolveAssemblyReference.cache
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.dll
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.MenuManager.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame\bin\SageFrame.MenuManager.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.pdb

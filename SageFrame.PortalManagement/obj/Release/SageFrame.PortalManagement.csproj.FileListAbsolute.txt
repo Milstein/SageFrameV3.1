@@ -29,3 +29,9 @@ C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.PortalManagement\b
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.PortalManagement\bin\Release\SageFrame.Common.pdb
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.PortalManagement\obj\Release\SageFrame.PortalManagement.dll
 C:\Users\Milson\Documents\!@FUCK\SageFrameV3.1Final\SageFrame.PortalManagement\obj\Release\SageFrame.PortalManagement.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.PortalManagement\bin\Release\SageFrame.PortalManagement.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.PortalManagement\bin\Release\SageFrame.PortalManagement.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.PortalManagement\bin\Release\SageFrame.Common.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.PortalManagement\bin\Release\SageFrame.Common.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.PortalManagement\obj\Release\SageFrame.PortalManagement.dll
+C:\Users\Milson\Documents\!@FUCK\!@Compare\SageFrameV3.1\SageFrame.PortalManagement\obj\Release\SageFrame.PortalManagement.pdb

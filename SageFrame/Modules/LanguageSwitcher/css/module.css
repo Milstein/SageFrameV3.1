@@ -134,7 +134,6 @@ li.cssClassFlagButtonVer {
 }
 /*------------------style for switch button----------------*/
 .FlagButtonWrapper {
-	padding:2px;
 	min-width:150px;
 	overflow:hidden;
 }
@@ -214,10 +213,9 @@ li.cssClassFlagButtonVer {
 }
 div.cssClassCarousel {
 	float: left;
-	height: 20px;
-	margin: 0 10px;
+	height: 20px!important;
+	margin: 0;
 	overflow: hidden;
-	padding: 5px 0;
 }
 div.cssClassCarousel ul {
 	position:relative;
@@ -296,4 +294,9 @@ div.FlagButtonWrapper li:hover {
 {
     text-align:right;
     display:block;
+}
+
+.sfLanguageContainer > div 
+{
+	padding-left: 115px;
 }

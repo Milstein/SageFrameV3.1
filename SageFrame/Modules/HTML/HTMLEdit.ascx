@@ -11,7 +11,7 @@
         <div id="divViewWrapper" runat="server" class="cssClassViewWrraper">
             <div class="cssClassTopSetting" id="divEditContent" runat="server">
             </div>
-            <asp:Literal ID="ltrContent" EnableViewState="False" runat="server" meta:resourcekey="ltrContentResource1"></asp:Literal>
+            <asp:Literal ID="ltrContent" EnableViewState="False" runat="server"></asp:Literal>
         </div>
         <div id="divEditWrapper" runat="server" class="cssClassEditWrapper">
             <div class="sfFormwrapper">

@@ -937,13 +937,13 @@
                     <asp:Label ID="lblSRow" runat="server" Text="Show rows" CssClass="sfFormlabel" meta:resourcekey="lblSRowResource1"></asp:Label>
                     <asp:DropDownList ID="ddlRecordsPerPage" runat="server" AutoPostBack="True" OnSelectedIndexChanged="ddlRecordsPerPage_SelectedIndexChanged"
                         CssClass="sfListmenu sfAuto" meta:resourcekey="ddlRecordsPerPageResource1">
-                        <asp:ListItem Value="10" meta:resourcekey="ListItemResource4" Text="10"></asp:ListItem>
-                        <asp:ListItem Value="25" meta:resourcekey="ListItemResource5" Text="25"></asp:ListItem>
-                        <asp:ListItem Value="50" meta:resourcekey="ListItemResource6" Text="50"></asp:ListItem>
-                        <asp:ListItem Value="100" meta:resourcekey="ListItemResource7" Text="100"></asp:ListItem>
-                        <asp:ListItem Value="150" meta:resourcekey="ListItemResource8" Text="150"></asp:ListItem>
-                        <asp:ListItem Value="200" meta:resourcekey="ListItemResource9" Text="200"></asp:ListItem>
-                        <asp:ListItem Value="250" meta:resourcekey="ListItemResource10" Text="250"></asp:ListItem>
+                        <asp:ListItem Value="10" meta:resourcekey="ListItemResource4">10</asp:ListItem>
+                        <asp:ListItem Value="25" meta:resourcekey="ListItemResource5">25</asp:ListItem>
+                        <asp:ListItem Value="50" meta:resourcekey="ListItemResource6">50</asp:ListItem>
+                        <asp:ListItem Value="100" meta:resourcekey="ListItemResource7">100</asp:ListItem>
+                        <asp:ListItem Value="150" meta:resourcekey="ListItemResource8">150</asp:ListItem>
+                        <asp:ListItem Value="200" meta:resourcekey="ListItemResource9">200</asp:ListItem>
+                        <asp:ListItem Value="250" meta:resourcekey="ListItemResource10">250</asp:ListItem>
                     </asp:DropDownList>
                 </td>
             </tr>
@@ -954,78 +954,81 @@
             AllowPaging="True" AllowSorting="True" GridLines="None" OnRowDataBound="gdvUser_RowDataBound"
             Width="100%" EmptyDataText="User not found" DataKeyNames="UserId,Username" OnPageIndexChanging="gdvUser_PageIndexChanging"
             meta:resourcekey="gdvUserResource1">
-            <AlternatingRowStyle CssClass="sfOdd" />
             <Columns>
-                <asp:TemplateField meta:resourceKey="TemplateFieldResource1">
-                    <HeaderTemplate>
-                        <input id="chkBoxHeader" runat="server" type="checkbox"></input> </input>
-                        </input>
-                    </HeaderTemplate>
+                <asp:TemplateField meta:resourcekey="TemplateFieldResource1">
                     <ItemTemplate>
-                        <input id="chkBoxItem" runat="server" class="sfSelectall" type="checkbox"></input>
-                    </input>
+                        <input id="chkBoxItem" runat="server" class="sfSelectall" type="checkbox" />
                     </ItemTemplate>
-                    <HeaderStyle CssClass="sfCheckbox" />
+                    <HeaderTemplate>
+                        <input id="chkBoxHeader" runat="server" type="checkbox"></input>
+                    </HeaderTemplate>
+                    <HeaderStyle CssClass="sfCheckbox"></HeaderStyle>
                 </asp:TemplateField>
-                <asp:TemplateField HeaderText="S.No." meta:resourceKey="TemplateFieldResource2">
+                <asp:TemplateField HeaderText="S.N" meta:resourcekey="TemplateFieldResource2">
                     <ItemTemplate>
-                        <%# Container.DataItemIndex+1 %>
+                        <%#Container.DataItemIndex+1 %>
                     </ItemTemplate>
                 </asp:TemplateField>
-                <asp:TemplateField meta:resourceKey="TemplateFieldResource3">
-                    <HeaderTemplate>
-                        <asp:Label ID="lblUsername" runat="server" meta:resourceKey="lblUsernameResource2" Text="Username"></asp:Label>
-                    </HeaderTemplate>
+                <asp:TemplateField meta:resourcekey="TemplateFieldResource3">
                     <ItemTemplate>
-                        <asp:LinkButton ID="lnkUsername" runat="server" CommandArgument="<%# Container.DataItemIndex %>" CommandName="EditUser" meta:resourceKey="lnkUsernameResource1" Text='<%# Eval("Username") %>' z=""></asp:LinkButton>
+                        <asp:LinkButton ID="lnkUsername" runat="server" CommandArgument='<%# Container.DataItemIndex %>'
+                            CommandName="EditUser" Text='<%# Eval("Username") %>' z meta:resourcekey="lnkUsernameResource1"></asp:LinkButton>
                     </ItemTemplate>
-                </asp:TemplateField>
-                <asp:TemplateField meta:resourceKey="TemplateFieldResource4">
                     <HeaderTemplate>
-                        <asp:Label ID="lblFirstName" runat="server" meta:resourceKey="lblFirstNameResource2" Text="First Name"></asp:Label>
+                        <asp:Label ID="lblUsername" runat="server" meta:resourcekey="lblUsernameResource2"
+                            Text="Username"></asp:Label>
                     </HeaderTemplate>
+                </asp:TemplateField>
+                <asp:TemplateField meta:resourcekey="TemplateFieldResource4">
                     <ItemTemplate>
-                        <%# Eval("FirstName") %>
+                        <%# Eval("FirstName")%>
                     </ItemTemplate>
-                </asp:TemplateField>
-                <asp:TemplateField meta:resourceKey="TemplateFieldResource5">
                     <HeaderTemplate>
-                        <asp:Label ID="lblLastName" runat="server" meta:resourceKey="lblLastNameResource2" Text="Last Name"></asp:Label>
+                        <asp:Label ID="lblFirstName" runat="server" meta:resourcekey="lblFirstNameResource2"
+                            Text="First Name"></asp:Label>
                     </HeaderTemplate>
+                </asp:TemplateField>
+                <asp:TemplateField meta:resourcekey="TemplateFieldResource5">
                     <ItemTemplate>
-                        <%# Eval("LastName") %>
+                        <%# Eval("LastName")%>
                     </ItemTemplate>
-                </asp:TemplateField>
-                <asp:TemplateField meta:resourceKey="TemplateFieldResource6">
                     <HeaderTemplate>
-                        <asp:Label ID="lblEmail" runat="server" meta:resourceKey="lblEmailResource2" Text="Email"></asp:Label>
+                        <asp:Label ID="lblLastName" runat="server" meta:resourcekey="lblLastNameResource2"
+                            Text="Last Name"></asp:Label>
                     </HeaderTemplate>
+                </asp:TemplateField>
+                <asp:TemplateField meta:resourcekey="TemplateFieldResource6">
                     <ItemTemplate>
-                        <%# Eval("Email") %>
+                        <%# Eval("Email")%>
                     </ItemTemplate>
-                </asp:TemplateField>
-                <asp:TemplateField meta:resourceKey="TemplateFieldResource7">
                     <HeaderTemplate>
-                        <input id="chkBoxIsActiveHeader" runat="server" type="checkbox"></input> </input>
-                        </input>
-                        <asp:Label ID="lblIsActive" runat="server" meta:resourceKey="lblIsActiveResource1" Text="Active"></asp:Label>
+                        <asp:Label ID="lblEmail" runat="server" meta:resourcekey="lblEmailResource2" Text="Email"></asp:Label>
                     </HeaderTemplate>
+                </asp:TemplateField>
+                <asp:TemplateField meta:resourcekey="TemplateFieldResource7">
                     <ItemTemplate>
                         <asp:HiddenField ID="hdnIsActive" runat="server" Value='<%# Eval("IsActive") %>' />
-                        <input id="chkBoxIsActiveItem" runat="server" class="sfIsactive" type="checkbox"></input>
-                    </input>
+                        <input id="chkBoxIsActiveItem" class="sfIsactive" runat="server" type="checkbox" />
                     </ItemTemplate>
+                    <HeaderTemplate>
+                        <input id="chkBoxIsActiveHeader" runat="server" type="checkbox"></input>
+                        <asp:Label ID="lblIsActive" runat="server" meta:resourcekey="lblIsActiveResource1"
+                            Text="Active"></asp:Label>
+                    </HeaderTemplate>
                     <HeaderStyle CssClass="sfIsactive" />
                 </asp:TemplateField>
-                <asp:TemplateField meta:resourceKey="TemplateFieldResource8">
+                <asp:TemplateField meta:resourcekey="TemplateFieldResource8">
                     <ItemTemplate>
-                        <asp:LinkButton ID="imgEdit" runat="server" CausesValidation="False" CommandArgument="<%# Container.DataItemIndex %>" CommandName="EditUser" CssClass="icon-edit" meta:resourceKey="imgEditResource1" ToolTip="Edit User"></asp:LinkButton>
+                        <asp:LinkButton ID="imgEdit" runat="server" CausesValidation="False" CommandArgument='<%# Container.DataItemIndex %>'
+                            CommandName="EditUser" CssClass="icon-edit" ToolTip="Edit User" meta:resourcekey="imgEditResource1" />
                     </ItemTemplate>
                     <HeaderStyle CssClass="sfEdit" />
                 </asp:TemplateField>
-                <asp:TemplateField meta:resourceKey="TemplateFieldResource9">
+                <asp:TemplateField meta:resourcekey="TemplateFieldResource9">
                     <ItemTemplate>
-                        <asp:LinkButton ID="imgDelete" runat="server" CausesValidation="False" CommandArgument="<%# Container.DataItemIndex %>" CommandName="DeleteUser" CssClass="icon-delete" meta:resourceKey="imgDeleteResource1" OnClientClick="return ConfirmDialog(this, 'Confirmation', 'Are you sure you want to delete the user?');" ToolTip="Delete User"></asp:LinkButton>
+                        <asp:LinkButton ID="imgDelete" runat="server" CausesValidation="False" CommandArgument='<%# Container.DataItemIndex %>'
+                            CommandName="DeleteUser" OnClientClick="return ConfirmDialog(this, 'Confirmation', 'Are you sure you want to delete the user?');"
+                            CssClass="icon-delete" ToolTip="Delete User" meta:resourcekey="imgDeleteResource1" />
                     </ItemTemplate>
                     <HeaderStyle CssClass="sfDelete" />
                 </asp:TemplateField>
@@ -1048,7 +1051,7 @@
                     <table cellpadding="0" cellspacing="0">
                         <tr style="display: none">
                             <td>
-                                <asp:Label runat="server" ID="lblDupNames" CssClass="sfFormlabel" meta:resourcekey="lblDupNamesResource1" Text="Allow Duplicate UserNames Across Portals"></asp:Label>
+                                <asp:Label runat="server" ID="lblDupNames" CssClass="sfFormlabel" meta:resourcekey="lblDupNamesResource1">Allow Duplicate UserNames Across Portals</asp:Label>
                             </td>
                             <td>
                                 <asp:CheckBox ID="chkEnableDupNames" runat="server" meta:resourcekey="chkEnableDupNamesResource1" />
@@ -1056,7 +1059,7 @@
                         </tr>
                         <tr>
                             <td>
-                                <asp:Label runat="server" ID="lblDupEmail" CssClass="sfFormlabel" meta:resourcekey="lblDupEmailResource1" Text="Allow Duplicate Email"></asp:Label>
+                                <asp:Label runat="server" ID="lblDupEmail" CssClass="sfFormlabel" meta:resourcekey="lblDupEmailResource1">Allow Duplicate Email</asp:Label>
                             </td>
                             <td>
                                 <asp:CheckBox ID="chkEnableDupEmail" runat="server" meta:resourcekey="chkEnableDupEmailResource1" />
@@ -1064,7 +1067,7 @@
                         </tr>
                         <tr style="display: none">
                             <td>
-                                <asp:Label runat="server" ID="lblDupRoles" CssClass="sfFormlabel" meta:resourcekey="lblDupRolesResource1" Text="Enable Duplicate Roles Across Portals"></asp:Label>
+                                <asp:Label runat="server" ID="lblDupRoles" CssClass="sfFormlabel" meta:resourcekey="lblDupRolesResource1">Enable Duplicate Roles Across Portals</asp:Label>
                             </td>
                             <td>
                                 <asp:CheckBox ID="chkEnableDupRole" runat="server" meta:resourcekey="chkEnableDupRoleResource1" />
@@ -1072,7 +1075,7 @@
                         </tr>
                         <tr>
                             <td>
-                                <asp:Label runat="server" ID="lblEnableCaptcha" CssClass="sfFormlabel" meta:resourcekey="lblEnableCaptchaResource1" Text="Enable Captcha For User Registration"></asp:Label>
+                                <asp:Label runat="server" ID="lblEnableCaptcha" CssClass="sfFormlabel" meta:resourcekey="lblEnableCaptchaResource1">Enable Captcha For User Registration</asp:Label>
                             </td>
                             <td>
                                 <asp:CheckBox ID="chkEnableCaptcha" runat="server" meta:resourcekey="chkEnableCaptchaResource1" />

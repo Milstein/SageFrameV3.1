@@ -133,10 +133,10 @@
                         <table border="0" cellpadding="0" cellspacing="0" width="100%">
                             <tr>
                                 <td width="20%">
-                                    <asp:Label ID="Label9" runat="server" CssClass="sfFormlabel" Text="Enable CDN" meta:resourcekey="Label9Resource1"></asp:Label>
+                                    <asp:Label ID="Label9" runat="server" CssClass="sfFormlabel" Text="Enable CDN"></asp:Label>
                                 </td>
                                 <td>
-                                    <asp:CheckBox runat="server" ID="chkEnableCDN" CssClass="sfCheckbox" meta:resourcekey="chkEnableCDNResource1" />
+                                    <asp:CheckBox runat="server" ID="chkEnableCDN" CssClass="sfCheckbox" />
                                 </td>
                             </tr>
                             <tr>
@@ -188,7 +188,7 @@
                         <table border="0" cellpadding="0" cellspacing="0" width="100%">
                             <tr>
                                 <td width="20%">
-                                    <asp:Label Text="Include OpenID  while Login" ID="txt" runat="server" CssClass="sfFormlabel" meta:resourcekey="txtResource1"></asp:Label>
+                                    <asp:Label Text="Include OpenID  while Login" ID="txt" runat="server" CssClass="sfFormlabel"></asp:Label>
                                 </td>
                                 <td>
                                     <asp:CheckBox runat="server" ID="chkOpenID" CssClass="sfCheckbox" AutoPostBack="True"
@@ -413,8 +413,8 @@
                     IncludeRule="false" IsExpanded="false" Text="Message Settings" />
                 <div id="dvMessageSetting" runat="server" class="sfCollapsecontent">
                     <div id="dvDefault">
-                        <span>Default<input id="rdbDefault" type="radio" value="default" runat="server" /> </span>
-                        <span>Custom<input id="rdbCustom" type="radio" value="custom" runat="server" /> </span>
+                        <span>Default<input id="rdbDefault" type="radio" value="default" runat="server" /></span>
+                        <span>Custom<input id="rdbCustom" type="radio" value="custom" runat="server" /></span>
                         <br />
                         <br />
                         <h2>
@@ -814,7 +814,7 @@
                                     <asp:Label runat="server" Text="Scheduler" ID="lblScheduler" CssClass="sfFormlabel" meta:resourcekey="lblSchedulerResource1"></asp:Label>
                                 </td>
                                 <td>
-                                    <asp:CheckBox runat="server" ID="txtScheduler" CssClass="sfCheckBox" meta:resourcekey="txtSchedulerResource1" />
+                                    <asp:CheckBox runat="server" ID="txtScheduler" CssClass="sfCheckBox" />
                                 </td>
                                 <td>
                                     Check the checkbox to enable Scheduler run
@@ -838,10 +838,10 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <asp:Label runat="server" Text="Enable Dashboard Help" ID="lblDashboardInfo" CssClass="sfFormlabel" meta:resourcekey="lblDashboardInfoResource1"></asp:Label>
+                                    <asp:Label runat="server" Text="Enable Dashboard Help" ID="lblDashboardInfo" CssClass="sfFormlabel"></asp:Label>
                                 </td>
                                 <td>
-                                    <asp:CheckBox runat="server" ID="chkDashboardHelp" CssClass="sfCheckBox" meta:resourcekey="chkDashboardHelpResource1" />
+                                    <asp:CheckBox runat="server" ID="chkDashboardHelp" CssClass="sfCheckBox" />
                                 </td>
                                 <td>
                                     Check the checkbox to enable Dasboard Help

@@ -8,14 +8,12 @@
             ignore: ':hidden',
             rules: {
                 '<%=Email.UniqueID %>': { email: true }
-                },
-                messages: {
-                    '<%=Email.UniqueID %>': "<br/>Email must be in a correct format."
-                }
-            });
+            },
+            messages: {
+                '<%=Email.UniqueID %>': "<br/>Email must be in a correct format."
+            }
+        });
 
-
-        $(".sfLocalee").SystemLocalize();
         var FinishButton = '#' + '<%=FinishButton.ClientID %>';
         var pwdID = '#' + '<%=Password.ClientID%>';
         $('#minchar').remove();
@@ -47,28 +45,27 @@
         if (args.get_isPartialLoad()) {
             $('.password').pstrength({ minchar: 4 });
         }
-
-
-
     }
     //]]>	
 </script>
 
 <div class="sfUserRegistrationPage">
     <div class="sfUserRegistration">
-        <h2>Registration</h2>
+        <h2>
+            <asp:Label ID="lblTitle" runat="server" Text="Registration" meta:resourcekey="lblTitleResource1"></asp:Label>
+        </h2>
         <div class="sfFormwrapper">
             <div class="sfUserRegistrationInfoLeft" id="divRegister" runat="server">
                 <table border="0" cellpadding="0" cellspacing="0" width="100%">
                     <tr>
                         <td colspan="2">
-                            <span class="sfAllrequired sfLocalee">* All Fields are compulsory. </span>
+                            <asp:Label ID="lblRequiredNotify" runat="server" Text="* All Fields are compulsory." meta:resourcekey="lblRequiredNotifyResource1" CssClass="sfAllrequired"></asp:Label>
                         </td>
                     </tr>
                     <tr>
                         <td>
                             <asp:Label ID="FirstNameLabel" runat="server" AssociatedControlID="FirstName" CssClass="sfFormlabel"
-                                meta:resourcekey="FirstNameLabelResource1">First Name: </asp:Label>
+                                meta:resourcekey="FirstNameLabelResource1" Text="First Name: "></asp:Label>
                         </td>
                         <td>
                             <asp:TextBox ID="FirstName" CssClass="sfInputbox" autofocus="autofocus" runat="server"
@@ -81,7 +78,7 @@
                     <tr>
                         <td>
                             <asp:Label ID="LastNameLabel" runat="server" AssociatedControlID="LastName" CssClass="sfFormlabel"
-                                meta:resourcekey="LastNameLabelResource1">Last Name:</asp:Label>
+                                meta:resourcekey="LastNameLabelResource1" Text="Last Name:"></asp:Label>
                         </td>
                         <td>
                             <asp:TextBox ID="LastName" CssClass="sfInputbox" runat="server" meta:resourcekey="LastNameResource1"></asp:TextBox>
@@ -93,7 +90,7 @@
                     <tr>
                         <td>
                             <asp:Label ID="UserNameLabel" runat="server" AssociatedControlID="UserName" CssClass="sfFormlabel"
-                                meta:resourcekey="UserNameLabelResource1">User Name:</asp:Label>
+                                meta:resourcekey="UserNameLabelResource1" Text="User Name:"></asp:Label>
                         </td>
                         <td>
                             <asp:TextBox ID="UserName" MaxLength="256" runat="server" CssClass="sfInputbox" meta:resourcekey="UserNameResource1"></asp:TextBox>
@@ -105,7 +102,7 @@
                     <tr>
                         <td>
                             <asp:Label ID="EmailLabel" runat="server" AssociatedControlID="Email" CssClass="sfFormlabel"
-                                meta:resourcekey="EmailLabelResource1">E-mail:</asp:Label>
+                                meta:resourcekey="EmailLabelResource1" Text="E-mail:"></asp:Label>
                         </td>
                         <td>
                             <asp:TextBox ID="Email" MaxLength="256" runat="server" CssClass="sfInputbox" meta:resourcekey="EmailResource1"></asp:TextBox>
@@ -121,7 +118,7 @@
                     <tr>
                         <td>
                             <asp:Label ID="PasswordLabel" runat="server" AssociatedControlID="Password" CssClass="sfFormlabel"
-                                meta:resourcekey="PasswordLabelResource1">Password:</asp:Label>
+                                meta:resourcekey="PasswordLabelResource1" Text="Password:"></asp:Label>
                         </td>
                         <td>
                             <asp:TextBox ID="Password" MaxLength="20" runat="server" TextMode="Password" CssClass="sfInputbox password"
@@ -134,7 +131,7 @@
                     <tr>
                         <td>
                             <asp:Label ID="ConfirmPasswordLabel" runat="server" AssociatedControlID="ConfirmPassword"
-                                CssClass="sfFormlabel" meta:resourcekey="ConfirmPasswordLabelResource1">Confirm Password:</asp:Label>
+                                CssClass="sfFormlabel" meta:resourcekey="ConfirmPasswordLabelResource1" Text="Confirm Password:"></asp:Label>
                         </td>
                         <td>
                             <asp:TextBox ID="ConfirmPassword" runat="server" TextMode="Password" MaxLength="20"
@@ -171,9 +168,6 @@
                                     <asp:RequiredFieldValidator ID="rfvCaptchaValueValidator" runat="server" ControlToValidate="CaptchaValue"
                                         Display="Dynamic" ErrorMessage="*" ValidationGroup="CreateUserWizard1" CssClass="sfError"
                                         meta:resourcekey="rfvCaptchaValueValidatorResource1"></asp:RequiredFieldValidator>
-                                    <%-- <asp:CompareValidator ID="cvCaptchaValue" runat="server" Display="Dynamic" ErrorMessage="*"
-                                                ValidationGroup="CreateUserWizard1" ControlToValidate="CaptchaValue"
-                                                CssClass="sfError" meta:resourcekey="cvCaptchaValueResource1"></asp:CompareValidator>--%>
                                 </ContentTemplate>
                             </asp:UpdatePanel>
                         </td>
@@ -196,7 +190,7 @@
                 </div>
                 <div id="divRegConfirm" class="sfRegConfirm" runat="server">
                     <h3>Registration Successful</h3>
-                    <asp:Label ID="lblRegSuccess" runat="server" CssClass="sfFormlabel" meta:resourcekey="lblRegSuccessResource1">  </asp:Label>
+                    <asp:Label ID="lblRegSuccess" runat="server" CssClass="sfFormlabel" meta:resourcekey="lblRegSuccessResource1"></asp:Label>
                     <asp:Literal ID="USER_RESISTER_SUCESSFUL_INFORMATION" runat="server" meta:resourcekey="USER_RESISTER_SUCESSFUL_INFORMATIONResource1"></asp:Literal>
                     <div class="sfButtonwrapper">
                         <span><a href='<%=LoginPath%>' class="sfBtn">Go To Login Page</a></span>

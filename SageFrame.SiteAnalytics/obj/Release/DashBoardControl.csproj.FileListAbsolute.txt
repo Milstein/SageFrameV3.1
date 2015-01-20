@@ -41,3 +41,9 @@ D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.SiteAnalytics\bin\Release\SageFrame.C
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.SiteAnalytics\bin\Release\SageFrame.Common.pdb
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.dll
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.SiteAnalytics\bin\Release\DashBoardControl.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.SiteAnalytics\bin\Release\DashBoardControl.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.SiteAnalytics\bin\Release\SageFrame.Common.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.SiteAnalytics\bin\Release\SageFrame.Common.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.pdb

@@ -29,3 +29,7 @@ D:\!@Localhost\!@F\SageFrameV3.1\SageFrame\bin\SageFrame.PortalManagement.pdb
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.dll
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.pdb
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SageFrame.PortalManagement.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SageFrame.PortalManagement.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.PortalManagement\obj\Debug\SageFrame.PortalManagement.pdb

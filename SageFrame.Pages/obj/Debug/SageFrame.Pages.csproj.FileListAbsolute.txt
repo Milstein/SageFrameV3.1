@@ -29,3 +29,7 @@ D:\!@Localhost\!@F\SageFrameV3.1\SageFrame\bin\SageFrame.Pages.pdb
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.Pages\obj\Debug\SageFrame.Pages.dll
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.Pages\obj\Debug\SageFrame.Pages.pdb
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.Pages\obj\Debug\SageFrame.Pages.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SageFrame.Pages.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SageFrame.Pages.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.Pages\obj\Debug\SageFrame.Pages.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.Pages\obj\Debug\SageFrame.Pages.pdb

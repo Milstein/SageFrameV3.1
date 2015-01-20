@@ -41,3 +41,9 @@ D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Commo
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Common.pdb
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.dll
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Dashboard.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Dashboard.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Common.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.Dashboard\bin\Release\SageFrame.Common.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.Dashboard\obj\Release\SageFrame.Dashboard.pdb

@@ -26,3 +26,7 @@ D:\!@Localhost\!@F\SageFrameV3.1\SageFrame\bin\SFE.GoogleAdUnit.dll
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame\bin\SFE.GoogleAdUnit.pdb
 D:\!@Localhost\!@F\SageFrameV3.1\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.dll
 D:\!@Localhost\!@F\SageFrameV3.1\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SFE.GoogleAdUnit.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SFE.GoogleAdUnit.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\GoogleAdUnit\obj\Debug\SFE.GoogleAdUnit.pdb

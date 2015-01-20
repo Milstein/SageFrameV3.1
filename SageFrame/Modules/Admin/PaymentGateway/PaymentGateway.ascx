@@ -1,7 +1,5 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="PaymentGateway.ascx.cs" Inherits="Modules_PaymentGateway_PaymentGateway" %>
 
-
-
 <script type="text/javascript">
     //<![CDATA[
     $(function () {

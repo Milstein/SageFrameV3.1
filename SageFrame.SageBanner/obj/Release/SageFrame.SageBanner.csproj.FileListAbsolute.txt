@@ -41,3 +41,9 @@ D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.SageBanner\bin\Release\SageFrame.Comm
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.SageBanner\bin\Release\SageFrame.Common.pdb
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.SageBanner\obj\Release\SageFrame.SageBanner.dll
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.SageBanner\obj\Release\SageFrame.SageBanner.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.SageBanner\bin\Release\SageFrame.SageBanner.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.SageBanner\bin\Release\SageFrame.SageBanner.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.SageBanner\bin\Release\SageFrame.Common.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.SageBanner\bin\Release\SageFrame.Common.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.SageBanner\obj\Release\SageFrame.SageBanner.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.SageBanner\obj\Release\SageFrame.SageBanner.pdb

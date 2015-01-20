@@ -34,3 +34,7 @@ D:\!@Localhost\!@F\SageFrameV3.1\SageFrame\bin\SageFrame.PaymentGateWay.pdb
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.dll
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.pdb
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SageFrame.PaymentGateWay.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SageFrame.PaymentGateWay.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.PaymentGateWay\obj\Debug\SageFrame.PaymentGateWay.pdb

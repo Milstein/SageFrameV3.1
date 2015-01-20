@@ -31,3 +31,8 @@ D:\!@Localhost\!@F\SageFrameV3.1\SageFrame\bin\ContactUs.pdb
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.ContactUs\obj\Debug\ContactUs.dll
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.ContactUs\obj\Debug\ContactUs.pdb
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.ContactUs\obj\Debug\SageFrame.ContactUs.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\ContactUs.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\ContactUs.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.ContactUs\obj\Debug\SageFrame.ContactUs.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.ContactUs\obj\Debug\ContactUs.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.ContactUs\obj\Debug\ContactUs.pdb

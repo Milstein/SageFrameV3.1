@@ -29,3 +29,7 @@ D:\!@Localhost\!@F\SageFrameV3.1\SageFrame\bin\SageFrame.BreadCrum.pdb
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.dll
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.pdb
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SageFrame.BreadCrum.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SageFrame.BreadCrum.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.BreadCrum\obj\Debug\SageFrame.BreadCrum.pdb

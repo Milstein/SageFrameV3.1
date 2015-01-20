@@ -29,3 +29,7 @@ D:\!@Localhost\!@F\SageFrameV3.1\SageFrame\bin\SageFrame.CDN.pdb
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.CDN\obj\Debug\SageFrame.CDN.dll
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.CDN\obj\Debug\SageFrame.CDN.pdb
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.CDN\obj\Debug\SageFrame.CDN.csprojResolveAssemblyReference.cache
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SageFrame.CDN.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SageFrame.CDN.pdb
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.CDN\obj\Debug\SageFrame.CDN.dll
+C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.CDN\obj\Debug\SageFrame.CDN.pdb

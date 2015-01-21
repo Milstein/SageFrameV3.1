@@ -33,3 +33,7 @@ C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SageFrame.S
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SageFrame.SEOExtension.pdb
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.SEOExtension\obj\Debug\SageFrame.SEOExtension.dll
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.SEOExtension\obj\Debug\SageFrame.SEOExtension.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame\bin\SageFrame.SEOExtension.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame\bin\SageFrame.SEOExtension.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame.SEOExtension\obj\Debug\SageFrame.SEOExtension.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame.SEOExtension\obj\Debug\SageFrame.SEOExtension.pdb

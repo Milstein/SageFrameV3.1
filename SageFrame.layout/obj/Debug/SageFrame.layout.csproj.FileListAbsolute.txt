@@ -94,3 +94,8 @@ C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SageFrame.l
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.csprojResolveAssemblyReference.cache
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.dll
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame\bin\SageFrame.layout.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame\bin\SageFrame.layout.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.csprojResolveAssemblyReference.cache
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame.layout\obj\Debug\SageFrame.layout.pdb

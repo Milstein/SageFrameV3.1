@@ -33,3 +33,7 @@ C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SageFrame.S
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SageFrame.Security.pdb
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.Security\obj\Debug\SageFrame.Security.dll
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.Security\obj\Debug\SageFrame.Security.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame\bin\SageFrame.Security.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame\bin\SageFrame.Security.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame.Security\obj\Debug\SageFrame.Security.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame.Security\obj\Debug\SageFrame.Security.pdb

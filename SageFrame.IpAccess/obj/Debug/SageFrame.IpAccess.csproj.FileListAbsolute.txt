@@ -33,3 +33,7 @@ C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SageFrame.I
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SageFrame.IpAccess.pdb
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.dll
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame\bin\SageFrame.IpAccess.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame\bin\SageFrame.IpAccess.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame.IpAccess\obj\Debug\SageFrame.IpAccess.pdb

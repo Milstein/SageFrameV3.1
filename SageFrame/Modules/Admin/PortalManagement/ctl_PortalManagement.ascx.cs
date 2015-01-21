@@ -114,6 +114,7 @@ namespace SageFrame.Modules.Admin.PortalManagement
         {
             txtEmail.Text = "";
             txtPortalName.Text = "";
+            txtUrl.Text = "";
         }
         protected void imgAdd_Click(object sender, EventArgs e)
         {

@@ -117,3 +117,11 @@ C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.layout\bin\Rele
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.layout\bin\Release\SageFrame.Dashboard.pdb
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.layout\obj\Release\SageFrame.layout.dll
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.layout\obj\Release\SageFrame.layout.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame.layout\bin\Release\SageFrame.layout.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame.layout\bin\Release\SageFrame.layout.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame.layout\bin\Release\SageFrame.Common.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame.layout\bin\Release\SageFrame.Dashboard.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame.layout\bin\Release\SageFrame.Common.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame.layout\bin\Release\SageFrame.Dashboard.pdb
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame.layout\obj\Release\SageFrame.layout.dll
+D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame.layout\obj\Release\SageFrame.layout.pdb

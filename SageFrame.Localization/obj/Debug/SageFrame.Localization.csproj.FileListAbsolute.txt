@@ -32,7 +32,6 @@ D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.Localization\obj\Debug\SageFrame.Loca
 D:\!@Localhost\!@F\SageFrameV3.1\SageFrame.Localization\obj\Debug\SageFrame.Localization.csprojResolveAssemblyReference.cache
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SageFrame.Localization.dll
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame\bin\SageFrame.Localization.pdb
-C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.Localization\obj\Debug\SageFrame.Localization.csprojResolveAssemblyReference.cache
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.Localization\obj\Debug\SageFrame.Localization.dll
 C:\Users\Milson\Documents\!@FUCK\!@Final\SageFrameV3.1\SageFrame.Localization\obj\Debug\SageFrame.Localization.pdb
 D:\!@Localhost\!@F\!Jan20\SageFrameV3.1\SageFrame\bin\SageFrame.Localization.dll
